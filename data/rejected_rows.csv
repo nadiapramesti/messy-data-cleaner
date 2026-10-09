@@ -1,0 +1,59 @@
+order_id,customer_name,email,city,product,quantity,unit_price,order_date,status,reject_reason
+ORD-1328,Eko Permata,eko.permata@gmail.com,Makassar,USB-C Hub,,320000.0,2025-02-18,pending,quantity out of range or missing
+ORD-1833,Nanda Nugroho,nanda.nugroho@outlook.com,Bandung,External SSD 1TB,0.0,980000.0,2024-05-13,completed,quantity out of range or missing
+ORD-1642,Gilang Santoso,gilang.santoso@outlook.com,Makassar,External SSD 1TB,,980000.0,2024-05-14,completed,quantity out of range or missing
+ORD-1809,Fitri Permata,fitri.permata@outlook.com,Surabaya,Laptop Stand,,185000.0,2024-01-07,shipped,quantity out of range or missing
+ORD-1884,Rizky Santoso,rizky.santoso@outlook.com,Semarang,USB-C Hub,0.0,320000.0,2024-05-02,completed,quantity out of range or missing
+ORD-1795,Gilang Nugroho,,Yogyakarta,USB-C Hub,,320000.0,2025-04-07,shipped,quantity out of range or missing
+ORD-1321,Budi Lestari,budi.lestari@gmail.com,Surabaya,Laptop Stand,,185000.0,2024-12-28,shipped,quantity out of range or missing
+ORD-1131,Tono Saputra,tono.saputra@gmail.com,Yogyakarta,Mechanical Keyboard,,750000.0,2024-08-05,shipped,quantity out of range or missing
+ORD-1611,Rizky Lestari,rizky.lestari@outlook.com,Bandung,Noise Cancelling Headset,,1250000.0,2025-03-23,completed,quantity out of range or missing
+ORD-1764,Sari Permata,sari.permata@gmail.com,Makassar,Noise Cancelling Headset,9999.0,1250000.0,2025-10-09,shipped,quantity out of range or missing
+ORD-1066,Andi Kusuma,andi.kusuma@outlook.com,Denpasar,Noise Cancelling Headset,,1250000.0,2024-11-27,completed,quantity out of range or missing
+ORD-1590,Rizky Anggraini,,Semarang,Webcam HD,,450000.0,2024-05-23,completed,quantity out of range or missing
+ORD-1720,Rizky Lestari,rizky.lestari@outlook.com,Bandung,Monitor 24 inch,,1850000.0,2025-12-13,pending,quantity out of range or missing
+ORD-1399,Kiki Saputra,kiki.saputra@yahoo.com,Semarang,External SSD 1TB,-3.0,980000.0,2025-05-10,shipped,quantity out of range or missing
+ORD-1101,Joko Hidayat,joko.hidayat@yahoo.com,Surabaya,Mechanical Keyboard,,750000.0,2025-10-11,pending,quantity out of range or missing
+ORD-1660,Andi Saputra,andi.saputra@yahoo.com,Yogyakarta,USB-C Hub,,320000.0,2024-10-09,completed,quantity out of range or missing
+ORD-1628,Andi Hidayat,andi.hidayat@yahoo.com,Semarang,Laptop Stand,,185000.0,2025-09-11,cancelled,quantity out of range or missing
+ORD-1047,Joko Kusuma,,Semarang,Wireless Mouse,,150000.0,2024-11-07,cancelled,quantity out of range or missing
+ORD-1162,Fitri Anggraini,fitri.anggraini@gmail.com,Surabaya,USB-C Hub,,320000.0,2026-07-15,cancelled,quantity out of range or missing
+ORD-1461,Andi Lestari,andi.lestari@gmail.com,Bandung,External SSD 1TB,-3.0,980000.0,2024-07-27,completed,quantity out of range or missing
+ORD-1500,Hana Kusuma,hana.kusuma@gmail.com,Makassar,Wireless Mouse,,150000.0,2025-08-26,shipped,quantity out of range or missing
+ORD-1531,Kiki Pratama,kiki.pratama@yahoo.com,Semarang,Noise Cancelling Headset,,1250000.0,2024-06-01,shipped,quantity out of range or missing
+ORD-1779,Sari Santoso,sari.santoso@gmail.com,Semarang,Noise Cancelling Headset,,1250000.0,2024-08-04,cancelled,quantity out of range or missing
+ORD-1847,Umi Hidayat,umi.hidayat@gmail.com,Semarang,External SSD 1TB,,980000.0,2025-10-25,completed,quantity out of range or missing
+ORD-1883,Putri Hidayat,putri.hidayat@yahoo.com,Surabaya,USB-C Hub,,320000.0,2025-09-01,completed,quantity out of range or missing
+ORD-1299,Eko Nugroho,eko.nugroho@yahoo.com,Jakarta,Mechanical Keyboard,,750000.0,2026-09-08,shipped,quantity out of range or missing
+ORD-1836,Eko Saputra,eko.saputra@gmail.com,Makassar,Wireless Mouse,0.0,150000.0,2026-02-26,completed,quantity out of range or missing
+ORD-1875,Budi Hidayat,budi.hidayat@gmail.com,Yogyakarta,Mechanical Keyboard,,750000.0,2025-12-16,pending,quantity out of range or missing
+ORD-1926,Oka Lestari,oka.lestari@gmail.com,Denpasar,Laptop Stand,,185000.0,2024-07-23,cancelled,quantity out of range or missing
+ORD-1733,Fitri Santoso,fitri.santoso@gmail.com,Makassar,Laptop Stand,,185000.0,2025-09-07,shipped,quantity out of range or missing
+ORD-1392,Gilang Pratama,gilang.pratama@gmail.com,Yogyakarta,Noise Cancelling Headset,,1250000.0,2024-11-03,pending,quantity out of range or missing
+ORD-1175,Lina Nugroho,lina.nugroho@gmail.com,Denpasar,Mechanical Keyboard,,750000.0,2024-01-13,shipped,quantity out of range or missing
+ORD-1635,Dewi Hidayat,dewi.hidayat@yahoo.com,Bandung,Noise Cancelling Headset,,1250000.0,2026-10-18,shipped,quantity out of range or missing
+ORD-1840,Rizky Santoso,rizky.santoso@outlook.com,Makassar,Laptop Stand,,185000.0,2025-10-24,pending,quantity out of range or missing
+ORD-1151,Umi Nugroho,umi.nugroho@gmail.com,Denpasar,Laptop Stand,,185000.0,2024-05-05,shipped,quantity out of range or missing
+ORD-1928,Maya Lestari,maya.lestari@gmail.com,Denpasar,Laptop Stand,,185000.0,2025-07-09,completed,quantity out of range or missing
+ORD-1634,Putri Santoso,putri.santoso@yahoo.com,Yogyakarta,Monitor 24 inch,,1850000.0,2025-11-03,completed,quantity out of range or missing
+ORD-1511,Nanda Permata,,Yogyakarta,USB-C Hub,,320000.0,2025-03-09,pending,quantity out of range or missing
+ORD-1008,Umi Saputra,umi.saputra@yahoo.com,Bandung,Webcam HD,,450000.0,2024-11-18,shipped,quantity out of range or missing
+ORD-1172,Nanda Permata,nanda.permata@yahoo.com,Yogyakarta,External SSD 1TB,,980000.0,2024-07-17,completed,quantity out of range or missing
+ORD-1525,Putri Saputra,putri.saputra@yahoo.com,Medan,Mechanical Keyboard,,750000.0,2026-08-11,completed,quantity out of range or missing
+ORD-1776,Gilang Hidayat,gilang.hidayat@outlook.com,Semarang,External SSD 1TB,,980000.0,2026-01-11,cancelled,quantity out of range or missing
+ORD-1346,Budi Nugroho,budi.nugroho@gmail.com,Medan,Monitor 24 inch,,1850000.0,2025-04-12,cancelled,quantity out of range or missing
+ORD-1463,Tono Kusuma,tono.kusuma@outlook.com,Yogyakarta,Webcam HD,,450000.0,2025-07-16,completed,quantity out of range or missing
+ORD-1277,Oka Pratama,oka.pratama@outlook.com,Jakarta,Mechanical Keyboard,,750000.0,2026-07-26,cancelled,quantity out of range or missing
+ORD-1789,Lina Saputra,lina.saputra@outlook.com,Medan,Laptop Stand,,185000.0,2025-08-08,pending,quantity out of range or missing
+ORD-1296,Rizky Anggraini,rizky.anggraini@yahoo.com,Denpasar,Webcam HD,,450000.0,2025-09-08,pending,quantity out of range or missing
+ORD-1674,Putri Saputra,putri.saputra@yahoo.com,Bandung,Noise Cancelling Headset,,1250000.0,2024-02-06,pending,quantity out of range or missing
+ORD-1575,Fitri Hidayat,,Medan,Mechanical Keyboard,,750000.0,2024-09-28,shipped,quantity out of range or missing
+ORD-1219,Andi Permata,andi.permata@gmail.com,Semarang,Wireless Mouse,,150000.0,2026-04-28,completed,quantity out of range or missing
+ORD-1053,Budi Lestari,,Semarang,Webcam HD,,450000.0,2025-08-23,completed,quantity out of range or missing
+ORD-1890,Tono Nugroho,tono.nugroho@gmail.com,Medan,Laptop Stand,,185000.0,2025-02-08,shipped,quantity out of range or missing
+ORD-1475,Lina Wijaya,lina.wijaya@gmail.com,Semarang,Wireless Mouse,9999.0,150000.0,2025-05-19,completed,quantity out of range or missing
+ORD-1606,Rizky Nugroho,,Bandung,External SSD 1TB,,980000.0,2025-08-26,completed,quantity out of range or missing
+ORD-1418,Gilang Anggraini,gilang.anggraini@yahoo.com,Makassar,Laptop Stand,,185000.0,2024-06-04,pending,quantity out of range or missing
+ORD-1414,Joko Pratama,,Jakarta,Laptop Stand,,185000.0,2024-07-23,cancelled,quantity out of range or missing
+ORD-1337,Oka Saputra,oka.saputra@yahoo.com,Denpasar,External SSD 1TB,,980000.0,2026-08-08,cancelled,quantity out of range or missing
+ORD-1865,Andi Pratama,andi.pratama@gmail.com,Bandung,Mechanical Keyboard,,750000.0,2024-03-12,completed,quantity out of range or missing

@@ -1,0 +1,1066 @@
+order_id,customer_name,email,city,product,quantity,unit_price,order_date,status
+ORD-1263,Indra Pratama,indra.pratama@outlook.com,Jakarta,Laptop Stand,5,Rp 185.000,2024-12-03,Cancelled
+ORD-1839,MAYA PERMATA,maya.permata@outlook.com,Den Pasar,Monitor 24 inch,2,1850000.00,16-01-2025,completed
+ORD-1055,CITRA NUGROHO,citra.nugroho@outlook.com,Yogyakarta,Monitor 24 inch,6,Rp1850000,2026/05/27,Pending
+ORD-1334,  Eko Permata  ,eko.permata@gmail.com,YOGYAKARTA,Monitor 24 inch,6,1850000.00,06/01/2025,Completed
+ORD-1438,Putri Hidayat,putri.hidayat@gmail.com,Semarang,Webcam HD,1,450000.00,27-01-2026,Completed
+ORD-1736,kiki wijaya,kiki.wijaya@yahoo.com,Surabaya,Webcam HD,4,450.000,01-12-2026,Pending
+ORD-1759,INDRA SANTOSO,n/a,MAKASSAR,Monitor 24 inch,4,Rp 1.850.000,2024/07/22,Shipped
+ORD-1529,  Hana Lestari  ,hana.lestari@yahoo.com,Semarang,MECHANICAL KEYBOARD,6, 750000 ,03/01/2025,completed
+ORD-1473,OKA LESTARI,oka.lestari@yahoo.com,Surabaya,External SSD 1TB,6,980.000,04/10/2025,Cancelled
+ORD-1756,TONO SAPUTRA,tono.saputra@outlook.com,Bandung,Wireless Mouse,2 pcs,150000,02-06-2025,Shipped
+ORD-1073,KIKI PERMATA,kiki.permata@outlook.com,Semarang,Webcam HD,8,450000,14 Oct 2026,Pending
+ORD-1518,Dewi Hidayat,dewi.hidayat(at)gmail.com,YOGYAKARTA,External SSD 1TB,5,Rp980000,04/03/2024,shipped
+ORD-1670,Dewi Kusuma,dewi.kusuma@gmail,Denpasar,EXTERNAL SSD 1TB,6,Rp 980.000,13 Jul 2025,completed
+ORD-1522,Maya Kusuma,maya.kusuma@outlook.com,Surabaya,USB-C HUB,7,Rp 320.000,20/03/2024,Shipped
+ORD-1819,Maya  Santoso,maya.santoso@outlook.com,Denpasar,NOISE CANCELLING HEADSET,8,Rp 1.250.000,10/28/2025,Completed
+ORD-1076,Putri Lestari,putri.lestari@yahoo.com,Jakarta,Mechanical Keyboard,6,Rp 750.000,06/04/2026,Shipped
+ORD-1760,Umi Saputra,,Makasar,Monitor 24 inch,6,1850000,16 Jul 2026,shipped
+ORD-1029,Hana Lestari,hana.lestari@yahoo.com,Denpasar,USB-C Hub,1,Rp320000,16 Apr 2024,shipped
+ORD-1859,INDRA LESTARI,indra.lestari@yahoo.com,Denpasar,Mechanical Keyboard,3,750000,02/25/2025,cancelled
+ORD-1853,  Lina Lestari  ,lina.lestari@yahoo.com,Makassar,Monitor 24 inch,7,1.850.000,24/08/2025,shipped
+ORD-1147,Sari Saputra,sari.saputra@yahoo.com,Bandung,Wireless Mouse,1,150000,16-02-2024,cancelled
+ORD-1478,Fitri  Pratama,fitri.pratama@outlook.com,Semarang,USB-C HUB,8,320.000,2025-03-23,Pending
+ORD-1648,citra wijaya,citra.wijaya@gmail.com,yogyakarta,External SSD 1TB,1,980.000,01/22/2024,Shipped
+ORD-1197,Andi Permata,andi.permata@yahoo.com,medan,Noise Cancelling Headset,8,1250000,08/12/2026,completed
+ORD-1381,Tono Pratama,tono.pratama(at)gmail.com,Makassar,Noise Cancelling Headset,2,Rp 1.250.000,2024-05-05,Pending
+ORD-1146,indra permata,indra.permata@yahoo.com,Bandung,Mechanical Keyboard,6,Rp 750.000,19 Aug 2025,Pending
+ORD-1652,Rizky Kusuma,rizky.kusuma@gmail.com,BANDUNG,EXTERNAL SSD 1TB,7,Rp 980.000,2024-11-02,Shipped
+ORD-1434,nanda santoso,nanda.santoso@outlook.com,Surabaya,LAPTOP STAND,3,185000,2025-03-01,Completed
+ORD-1699,OKA PERMATA,oka.permata@yahoo.com,Semarang,Noise Cancelling Headset,2,1250000,17/09/2025,Cancelled
+ORD-1187,  Joko Nugroho  ,joko.nugroho@yahoo.com,Semarang,Noise Cancelling Headset,2,1250000.00,01/08/2026,Cancelled
+ORD-1328,Eko  Permata,eko.permata@gmail.com,Makassar,USB-C HUB,,Rp320000,18 Feb 2025,Pending
+ORD-1551,Hana Nugroho,hana.nugroho@gmail,Makassar,External SSD 1TB,2, 980000 ,21-09-2024,pending
+ORD-1697,Gilang Permata,gilang.permata@gmail.com,Denpasar,WIRELESS MOUSE,3,150000,2025/11/03,cancelled
+ORD-1895,Budi Saputra,,Bandung,Monitor 24 inch,8,1850000.00,01/03/2025,Shipped
+ORD-1355,NANDA KUSUMA,nanda.kusuma@outlook.com,yogyakarta,Noise Cancelling Headset,4,Rp 1.250.000,22 Nov 2024,COMPLETED
+ORD-1638,Putri Permata,putri.permata@outlook.com,Denpasar,External SSD 1TB,7, 980000 ,2026-12-09,cancelled
+ORD-1588,Nanda Anggraini,nanda.anggraini@outlook.com,Jakarta,Wireless Mouse,3,Rp150000,23-05-2026,Cancelled
+ORD-1731,Lina Nugroho,lina.nugroho@outlook.com,Surabaya,Noise Cancelling Headset,2,1250000,06-04-2026,Completed
+ORD-1833,nanda nugroho,nanda.nugroho@outlook.com,Bandung,External SSD 1TB,0,Rp 980.000,2024/05/13,completed
+ORD-1348,Budi Saputra,budi.saputra@gmail.com,Makassar,MONITOR 24 INCH,2, 1850000 ,05/02/2024,completed
+ORD-1159,KIKI  PERMATA,kiki.permata@outlook.com,Semarang,Mechanical Keyboard,1,750.000,2024/05/08,completed
+ORD-1490,Kiki Hidayat,kiki.hidayat@yahoo.com,MAKASSAR,Webcam HD,8,Rp 450.000,22 Apr 2025,completed
+ORD-1794,Gilang  Pratama,gilang.pratama@gmail.com,Surabaya,Laptop Stand,5,Rp185000,01/02/2024,shipped
+ORD-1625,Nanda Hidayat,nanda.hidayat@yahoo.com,Surabaya,Noise Cancelling Headset,7,Rp1250000,04-06-2026,Pending
+ORD-1329,joko saputra,joko.saputra@outlook.com,Medan,Webcam HD,3,Rp 450.000,2024-02-05,pending
+ORD-1161,Oka Saputra,,Makassar,Noise Cancelling Headset,2,1250000,26/01/2025,Cancelled
+ORD-1687,HANA SAPUTRA,n/a,Den Pasar,External SSD 1TB,2 pcs,980000,27 Aug 2024,cancelled
+ORD-1642,GILANG SANTOSO,gilang.santoso@outlook.com,Makassar,External SSD 1TB,,Rp 980.000,2024/05/14,completed
+ORD-1202,Eko Pratama,eko.pratama@outlook.com,Makassar ,Monitor 24 inch,8,Rp1850000,23-03-2025,Shipped
+ORD-1938,Indra  Saputra,indra.saputra@gmail.com,Semarang,Monitor 24 inch,8,Rp1850000,2025-06-07,pending
+ORD-1037,Eko Saputra,eko.saputra(at)gmail.com,Bandung,Mechanical Keyboard,4,750.000,12/09/2025,Pending
+ORD-1726,FITRI ANGGRAINI,,Jakarta Pusat,External SSD 1TB,1,980.000,07/06/2025,Completed
+ORD-1651,  Maya Anggraini  ,,Denpasar,Monitor 24 inch,6,Rp1850000,2024/08/09,Shipped
+ORD-1153,Joko  Permata,joko.permata@gmail.com,Surabaya,Monitor 24 inch,2,Rp 1.850.000,04/19/2026,Pending
+ORD-1335,  Citra Wijaya  ,citra.wijaya@outlook.com,Surabaya,External SSD 1TB,6,980000,2024/09/23,COMPLETED
+ORD-1464,  INDRA PERMATA  ,indra.permata@gmail.com,Surabaya,External SSD 1TB,2,Rp 980.000,21/10/2025,pending
+ORD-1869,maya kusuma,n/a,Makassar,Webcam HD,7,450000,11/10/2026,Shipped
+ORD-1683,LINA LESTARI,,Denpasar,Noise Cancelling Headset,7,1.250.000,2024-04-08,shipped
+ORD-1159,Kiki  Permata,kiki.permata@outlook.com,Semarang,Mechanical Keyboard,1,750.000,2024/05/08,COMPLETED
+ORD-1552,maya permata,maya.permata@gmail,Makassar,Monitor 24 inch,4,Rp 1.850.000,05/04/2024,COMPLETED
+ORD-1682,BUDI SANTOSO,budi.santoso@outlook.com,Surabaya,Laptop Stand,7,Rp185000,2024/09/16,pending
+ORD-1944,Dewi Wijaya,dewi.wijaya@yahoo.com,Makassar,External SSD 1TB,6, 980000 ,12-12-2026,Cancelled
+ORD-1010,Budi  Lestari,budi.lestari@gmail,Yogyakarta,Mechanical Keyboard,2, 750000 ,25/02/2025,Cancelled
+ORD-1352,citra saputra,citra.saputra@yahoo.com,Yogyakarta ,USB-C Hub,2, 320000 ,02/15/2025,Pending
+ORD-1722,rizky kusuma,rizky.kusuma@gmail.com,Jakarta,Laptop Stand,1,Rp 185.000,14-05-2025,shipped
+ORD-1903,andi kusuma,andi.kusuma@yahoo.com,Jakarta,Webcam HD,6,Rp450000,06/07/2025,cancelled
+ORD-1082,  LINA WIJAYA  ,,Medan,Monitor 24 inch,2,Rp 1.850.000,19-07-2024,completed
+ORD-1268,PUTRI KUSUMA,putri.kusuma@gmail.com,Surabaya ,Wireless Mouse,3,Rp 150.000,08/03/2025,Pending
+ORD-1115,  Rizky Saputra  ,rizky.saputra@outlook.com,Makassar,Webcam HD,2,450.000,2024-02-13,completed
+ORD-1025,ANDI WIJAYA,andi.wijaya@outlook.com,Makassar,Webcam HD,3.0,450000,02/05/2026,Shipped
+ORD-1402,Eko Santoso,eko.santoso@gmail.com,Yogyakarta,NOISE CANCELLING HEADSET,5,Rp 1.250.000,25-05-2025,Cancelled
+ORD-1509,Eko Anggraini,,Denpasar,External SSD 1TB,4,980.000,26 Aug 2024,COMPLETED
+ORD-1064,Eko Anggraini,eko.anggraini@yahoo.com,Makassar,Noise Cancelling Headset,5 pcs,1250000.00,27/05/2024,Pending
+ORD-1130,UMI WIJAYA,umi.wijaya@outlook.com,Semarang,EXTERNAL SSD 1TB,6,980.000,2024-10-04,shipped
+ORD-1809,Fitri Permata,fitri.permata@outlook.com,Surabaya,Laptop Stand,,185.000,2024/01/07,shipped
+ORD-1176,  Rizky Saputra  ,rizky.saputra@gmail,Bandung ,WIRELESS MOUSE,1,Rp 150.000,02/28/2025,Shipped
+ORD-1340,dewi nugroho,,Bandung,Noise Cancelling Headset,7,1250000,04/23/2026,Pending
+ORD-1762,Joko Hidayat,joko.hidayat@outlook.com,Denpasar,External SSD 1TB,8,Rp980000,20-03-2024,cancelled
+ORD-1335,  Citra Wijaya  ,citra.wijaya@outlook.com,Surabaya,External SSD 1TB,6,980000,2024/09/23,COMPLETED
+ORD-1425,PUTRI PERMATA,putri.permata@outlook.com,Yogyakarta,USB-C Hub,5,Rp320000,25 Aug 2025,Pending
+ORD-1503,Budi Lestari, BUDI.LESTARI@GMAIL.COM ,Bandung,Wireless Mouse,7,150000,2025/04/07,pending
+ORD-1572,joko permata,joko.permata@gmail,JAKARTA,Noise Cancelling Headset,2,1250000,2024-02-24,Pending
+ORD-1528,GILANG WIJAYA,gilang.wijaya@yahoo.com,Makassar,Laptop Stand,2,185.000,6 Dec 2024,Completed
+ORD-1387,Dewi Hidayat,dewi.hidayat@gmail.com,Bandung,Laptop Stand,2,Rp 185.000,2024/12/14,cancelled
+ORD-1569,DEWI ANGGRAINI,,Makassar,Noise Cancelling Headset,5,1250000.00,2026/05/20,Cancelled
+ORD-1884,RIZKY SANTOSO,rizky.santoso@outlook.com,SEMARANG,USB-C Hub,0,Rp 320.000,02/05/2024,Completed
+ORD-1923,Gilang Santoso,gilang.santoso@gmail.com,Semarang ,Wireless Mouse,1,150000,06/20/2024,shipped
+ORD-1375,Sari  Lestari,sari.lestari@yahoo.com,Medan,Wireless Mouse,7,Rp 150.000,2025/02/19,pending
+ORD-1205,FITRI PERMATA,fitri.permata@outlook.com,semarang,EXTERNAL SSD 1TB,7,Rp980000,09/13/2025,Shipped
+ORD-1384,  Sari Lestari  ,sari.lestari@outlook.com,Semarang,Laptop Stand,2,Rp 185.000,2026-02-20,COMPLETED
+ORD-1331,Gilang Lestari,gilang.lestari@gmail.com,Denpasar,MECHANICAL KEYBOARD,3,Rp750000,10/16/2025,Pending
+ORD-1344,Budi  Pratama,budi.pratama@outlook.com,Jakarta,External SSD 1TB,3,Rp980000,2025/09/11,completed
+ORD-1339,UMI KUSUMA,umi.kusuma@yahoo.com,Denpasar,USB-C Hub,8,Rp 320.000,2 Jun 2026,COMPLETED
+ORD-1327,Tono  Pratama, TONO.PRATAMA@GMAIL.COM ,Surabaya,Monitor 24 inch,5,Rp 1.850.000,15-06-2026,Cancelled
+ORD-1487,INDRA ANGGRAINI,indra.anggraini@yahoo.com,Bandung,Mechanical Keyboard,4,Rp 750.000,2026/11/26,COMPLETED
+ORD-1306,Sari  Hidayat,,Surabaya,Noise Cancelling Headset,8,1.250.000,28-10-2025,Cancelled
+ORD-1574,Lina  Lestari, LINA.LESTARI@GMAIL.COM ,Bandung,WIRELESS MOUSE,8,Rp 150.000,25 Nov 2024,Pending
+ORD-1080,JOKO HIDAYAT,joko.hidayat@outlook.com,Semarang,Mechanical Keyboard,1,Rp 750.000,14-12-2025,completed
+ORD-1059,Nanda Wijaya,,Jakarta Pusat,Mechanical Keyboard,8,750.000,2024/12/10,COMPLETED
+ORD-1072,Joko Saputra,joko.saputra@yahoo.com,Bandung,Wireless Mouse,1,Rp 150.000,2025/07/14,Cancelled
+ORD-1390,  Gilang Kusuma  ,gilang.kusuma@gmail.com,Makassar,External SSD 1TB,8,980000,2025/01/24,completed
+ORD-1795,Gilang Nugroho,,yogyakarta,USB-C Hub,,320000,07-04-2025,shipped
+ORD-1910,Citra Nugroho,citra.nugroho@gmail.com,jakarta,Noise Cancelling Headset,8,Rp1250000,2025/09/08,pending
+ORD-1830,maya lestari, MAYA.LESTARI@GMAIL.COM ,denpasar,External SSD 1TB,5,Rp980000,2026-12-22,completed
+ORD-1732,Sari  Permata,sari.permata@outlook.com,Denpasar ,Noise Cancelling Headset,3,1250000,28 Jun 2024,pending
+ORD-1321,BUDI LESTARI,budi.lestari@gmail.com,Surabaya,Laptop Stand,, 185000 ,2024-12-28,Shipped
+ORD-1484,  Kiki Permata  ,kiki.permata@gmail,Bandung,USB-C Hub,7,320000.00,11/09/2024,Shipped
+ORD-1131,Tono  Saputra,tono.saputra@gmail.com,Yogyakarta,Mechanical Keyboard,,Rp750000,2024-08-05,shipped
+,,,,,,,,
+ORD-1250,UMI LESTARI,umi.lestari@outlook.com,Bandung,Laptop Stand,5,Rp 185.000,2025/03/22,Shipped
+ORD-1737,nanda santoso,nanda.santoso(at)gmail.com,Jakarta Pusat,Mechanical Keyboard,4,Rp 750.000,24-03-2026,completed
+ORD-1611,Rizky Lestari,rizky.lestari@outlook.com,Bandung,Noise Cancelling Headset,,1250000,23 Mar 2025,completed
+ORD-1406,Tono Kusuma,tono.kusuma@yahoo.com,Bandung,Mechanical Keyboard,3,Rp 750.000,16-05-2024,Shipped
+ORD-1494,Putri Pratama,putri.pratama@gmail,Semarang,Laptop Stand,3,185000,2024-10-05,Cancelled
+ORD-1201,Kiki Santoso,kiki.santoso@yahoo.com,Bandung,Wireless Mouse,3,Rp 150.000,12/05/2026,pending
+ORD-1158,Sari  Anggraini,sari.anggraini@gmail.com,Bandung,Monitor 24 inch,1, 1850000 ,2025-12-26,Pending
+ORD-1582,Gilang Saputra, GILANG.SAPUTRA@GMAIL.COM ,Surabaya,Mechanical Keyboard,3,Rp 750.000,2024-10-21,shipped
+ORD-1558,Putri Nugroho,,Bandung,USB-C Hub,4,320000,7 Dec 2024,COMPLETED
+ORD-1600,Eko Nugroho,eko.nugroho@outlook.com,Bandung,Webcam HD,6,450000.00,16/05/2024,pending
+ORD-1430,HANA KUSUMA,hana.kusuma@yahoo.com,Denpasar ,Mechanical Keyboard,2,Rp750000,06/09/2026,pending
+ORD-1764,sari permata,sari.permata@gmail.com,Makassar,Noise Cancelling Headset,9999,Rp1250000,9 Oct 2025,Shipped
+ORD-1664,  Sari Pratama  ,sari.pratama@outlook.com,Makassar,Monitor 24 inch,7,Rp1850000,2024-03-17,Cancelled
+ORD-1356,Joko  Permata,joko.permata@gmail.com,Semarang,Mechanical Keyboard,2, 750000 ,2026-07-11,COMPLETED
+ORD-1772,Kiki Nugroho,kiki.nugroho@gmail.com,Surabaya,EXTERNAL SSD 1TB,6,980.000,09-12-2025,Shipped
+ORD-1610,Sari Lestari,sari.lestari@yahoo.com,JAKARTA,WIRELESS MOUSE,4,150000,02/19/2025,Pending
+ORD-1178,  Gilang Wijaya  ,gilang.wijaya@yahoo.com,Surabaya,Mechanical Keyboard,3, 750000 ,24-10-2024,Shipped
+ORD-1066,Andi  Kusuma,andi.kusuma@outlook.com,denpasar,NOISE CANCELLING HEADSET,,1250000,2024-11-27,Completed
+ORD-1332,Umi Kusuma,umi.kusuma@gmail.com,Denpasar,WIRELESS MOUSE,2,150000.00,2025-08-27,shipped
+ORD-1135,UMI SANTOSO,umi.santoso@outlook.com,Jakarta Pusat,LAPTOP STAND,4,185.000,2024-02-20,COMPLETED
+ORD-1106,Dewi  Lestari,dewi.lestari@outlook.com,Surabaya,USB-C HUB,4,320000,12-01-2025,cancelled
+ORD-1401,  Fitri Lestari  ,fitri.lestari@outlook.com,medan,WIRELESS MOUSE,6,150000.00,12 Mar 2025,pending
+ORD-1730,  Andi Hidayat  ,andi.hidayat@yahoo.com,Medan,MECHANICAL KEYBOARD,1,Rp750000,26 Sep 2024,cancelled
+ORD-1787,  Budi Wijaya  ,budi.wijaya@yahoo.com,Surabaya,WIRELESS MOUSE,6,150000.00,12/09/2025,COMPLETED
+ORD-1104,Andi Pratama,andi.pratama@gmail.com,Medan,External SSD 1TB,7,Rp 980.000,2026-02-09,cancelled
+ORD-1860,Tono Kusuma,tono.kusuma@gmail.com,MAKASSAR,USB-C HUB,8,Rp320000,22/08/2024,Completed
+ORD-1363,Rizky Wijaya,rizky.wijaya@outlook.com,Medan,Mechanical Keyboard,4,Rp 750.000,24 Nov 2025,Cancelled
+ORD-1873,ANDI PRATAMA,andi.pratama@outlook.com,surabaya,Noise Cancelling Headset,7,Rp 1.250.000,12 Jul 2024,COMPLETED
+ORD-1905,citra lestari,citra.lestari@gmail.com,Makasar,Mechanical Keyboard,8,Rp 750.000,11 Dec 2025,Completed
+ORD-1633,TONO WIJAYA,n/a,SURABAYA,Mechanical Keyboard,8,750000,4 Feb 2026,Completed
+ORD-1517,SARI NUGROHO,sari.nugroho@yahoo.com,Denpasar,Noise Cancelling Headset,1,1.250.000,05/01/2026,cancelled
+ORD-1457,JOKO LESTARI,,Bandung,Monitor 24 inch,5,1850000.00,01/18/2026,pending
+ORD-1684,BUDI WIJAYA,budi.wijaya@outlook.com,Semarang,WIRELESS MOUSE,3, 150000 ,10-03-2025,Completed
+ORD-1136,RIZKY NUGROHO,rizky.nugroho@yahoo.com,Surabaya,Laptop Stand,6,Rp185000,2026/10/25,completed
+ORD-1710,Gilang  Wijaya, GILANG.WIJAYA@GMAIL.COM ,SURABAYA,Laptop Stand,1, 185000 ,16/02/2025,pending
+ORD-1803,Joko  Saputra,joko.saputra@outlook.com,Bandung,External SSD 1TB,5,Rp 980.000,22/06/2024,Cancelled
+ORD-1013,Gilang  Wijaya,gilang.wijaya@outlook.com,BANDUNG,Mechanical Keyboard,7,Rp 750.000,14/07/2025,shipped
+ORD-1512,oka saputra,,Yogyakarta ,Monitor 24 inch,7,Rp 1.850.000,2025/08/11,Cancelled
+ORD-1881,HANA PERMATA,,DENPASAR,Monitor 24 inch,1,Rp 1.850.000,07-05-2025,Pending
+ORD-1345,Gilang Kusuma,gilang.kusuma@yahoo.com,Surabaya,Noise Cancelling Headset,6,1250000,03/09/2024,pending
+ORD-1411,Umi Pratama,umi.pratama@outlook.com,Makassar,NOISE CANCELLING HEADSET,6,Rp1250000,22 May 2025,Pending
+ORD-1683,LINA LESTARI,,Denpasar,Noise Cancelling Headset,7,1.250.000,2024-04-08,shipped
+ORD-1156,TONO LESTARI,tono.lestari@outlook.com,Surabaya,Noise Cancelling Headset,7,1.250.000,12-07-2025,shipped
+ORD-1121,Joko Lestari,joko.lestari@yahoo.com,medan,External SSD 1TB,6,980000,06/18/2025,COMPLETED
+ORD-1180,KIKI PRATAMA,kiki.pratama@gmail.com,Jakarta,MONITOR 24 INCH,7,1850000,22 Sep 2025,Cancelled
+ORD-1857,CITRA WIJAYA,citra.wijaya@yahoo.com,Semarang,Wireless Mouse,1,Rp 150.000,2024/06/28,pending
+ORD-1539,Tono  Pratama,tono.pratama@outlook.com,Makassar,Laptop Stand,7,185000.00,12/12/2025,cancelled
+ORD-1391,Nanda  Santoso,nanda.santoso@outlook.com,Bandung,Wireless Mouse,8,Rp 150.000,14-01-2026,Pending
+ORD-1404,Sari Saputra,sari.saputra@gmail.com,Makassar,Mechanical Keyboard,7,Rp750000,2024-08-11,Shipped
+ORD-1045,andi kusuma,,yogyakarta,WEBCAM HD,8,450.000,11-08-2025,completed
+ORD-1831,  Lina Kusuma  ,lina.kusuma(at)gmail.com,Semarang,Mechanical Keyboard,2,Rp 750.000,17/02/2026,completed
+ORD-1020,Dewi Wijaya, DEWI.WIJAYA@GMAIL.COM ,Medan,USB-C Hub,5,Rp 320.000,07-10-2025,Pending
+ORD-1621,fitri santoso,fitri.santoso@yahoo.com,Yogyakarta,Mechanical Keyboard,7,Rp750000,06-05-2025,Pending
+ORD-1270,Budi Pratama,budi.pratama@outlook.com,Medan,Webcam HD,3,450.000,20 Jul 2026,COMPLETED
+ORD-1671,Tono  Nugroho,tono.nugroho@yahoo.com,Jakarta,Wireless Mouse,8,150.000,06/05/2024,Cancelled
+ORD-1613,  Umi Anggraini  ,umi.anggraini@yahoo.com,Jakarta,Noise Cancelling Headset,8,Rp 1.250.000,2024/06/10,Completed
+ORD-1139,Sari Lestari,sari.lestari@gmail.com,Semarang,Wireless Mouse,5,150000,2025-11-20,shipped
+ORD-1590,rizky anggraini,rizky.anggraini@gmail,SEMARANG,Webcam HD,,Rp 450.000,05/23/2024,COMPLETED
+ORD-1717,Fitri Nugroho,,Bandung,Webcam HD,1,450000,11/25/2024,Completed
+ORD-1234,  Eko Wijaya  ,eko.wijaya@yahoo.com,YOGYAKARTA,Mechanical Keyboard,2,750000,11/08/2025,pending
+ORD-1227,Kiki Santoso,kiki.santoso@gmail.com,Yogyakarta,Wireless Mouse,8,Rp150000,25 Apr 2025,Pending
+ORD-1214,Joko  Anggraini,joko.anggraini@gmail.com,Surabaya,NOISE CANCELLING HEADSET,7, 1250000 ,2025-07-21,Pending
+ORD-1041,Putri Lestari,n/a,Jakarta,Noise Cancelling Headset,5,Rp1250000,2025/05/20,shipped
+ORD-1669,SARI NUGROHO,sari.nugroho(at)gmail.com,semarang,External SSD 1TB,2,980.000,03/21/2025,Shipped
+ORD-1220,Putri Pratama,putri.pratama@outlook.com,Medan,USB-C Hub,1,Rp320000,20 May 2024,Shipped
+ORD-1075,Tono Anggraini,tono.anggraini@outlook.com,Jakarta,Noise Cancelling Headset,2,1.250.000,28/06/2025,COMPLETED
+ORD-1526,SARI PERMATA,sari.permata@gmail.com,Jakarta,USB-C Hub,2,Rp 320.000,09-11-2024,Cancelled
+ORD-1947,Umi Saputra,umi.saputra(at)gmail.com,Yogyakarta,Mechanical Keyboard,6,Rp750000,13 Jul 2024,cancelled
+ORD-1030,Eko Santoso,eko.santoso@gmail.com,Semarang,MECHANICAL KEYBOARD,7,750.000,2024/03/26,Cancelled
+ORD-1446,Eko Hidayat,n/a,Bandung,MONITOR 24 INCH,4,1.850.000,12/14/2025,completed
+ORD-1720,Rizky Lestari,rizky.lestari@outlook.com,Bandung,Monitor 24 inch,,1850000.00,13 Dec 2025,pending
+ORD-1366,Tono Pratama,tono.pratama@outlook.com,Jakarta,EXTERNAL SSD 1TB,6,980000,26/05/2024,cancelled
+ORD-1091,Fitri Kusuma, FITRI.KUSUMA@GMAIL.COM ,Yogyakarta,USB-C Hub,8,Rp 320.000,12/07/2024,Shipped
+ORD-1039,  Nanda Saputra  ,nanda.saputra(at)gmail.com,Surabaya,Mechanical Keyboard,7,750000,2025/11/27,cancelled
+ORD-1580,MAYA ANGGRAINI,maya.anggraini(at)gmail.com,Jakarta,Monitor 24 inch,3,Rp1850000,2024/02/26,completed
+ORD-1155,kiki saputra,kiki.saputra@gmail.com,Jogjakarta,Noise Cancelling Headset,7,Rp1250000,10-03-2026,cancelled
+ORD-1286,PUTRI PRATAMA,putri.pratama@yahoo.com,Jakarta,Webcam HD,7,Rp 450.000,2024-10-05,Cancelled
+ORD-1873,ANDI PRATAMA,andi.pratama@outlook.com,surabaya,Noise Cancelling Headset,7,Rp 1.250.000,12 Jul 2024,COMPLETED
+ORD-1476,maya anggraini,maya.anggraini@yahoo.com,bandung,Laptop Stand,2,Rp 185.000,19 Sep 2025,COMPLETED
+ORD-1908,Budi Nugroho, BUDI.NUGROHO@GMAIL.COM ,Yogyakarta,USB-C Hub,4.0,Rp 320.000,19/11/2025,completed
+ORD-1778,Budi Kusuma,budi.kusuma@gmail.com,MEDAN,Webcam HD,5,450.000,7 Dec 2024,Completed
+ORD-1523,Sari  Nugroho,sari.nugroho@gmail.com,Bandung,Mechanical Keyboard,4,Rp 750.000,25/07/2025,Cancelled
+ORD-1520,Gilang  Pratama,gilang.pratama@yahoo.com,Semarang,Laptop Stand,5,Rp 185.000,22/12/2025,cancelled
+ORD-1568,CITRA HIDAYAT,citra.hidayat@gmail.com,Denpasar,Noise Cancelling Headset,5,1.250.000,04/09/2024,cancelled
+ORD-1717,Fitri Nugroho,,Bandung,Webcam HD,1,450000,11/25/2024,Completed
+ORD-1761,Sari Pratama,sari.pratama@outlook.com,Yogyakarta,Monitor 24 inch,5,1850000,01/22/2025,Shipped
+ORD-1797,Dewi Saputra,dewi.saputra@yahoo.com,Jogjakarta,NOISE CANCELLING HEADSET,6,Rp 1.250.000,7 Apr 2025,Pending
+ORD-1734,Putri Permata,putri.permata@outlook.com,Yogyakarta,Wireless Mouse,5,150.000,02-11-2025,Cancelled
+ORD-1579,eko permata,eko.permata@outlook.com,medan,Monitor 24 inch,6, 1850000 ,22/03/2024,pending
+ORD-1164,PUTRI ANGGRAINI,putri.anggraini@yahoo.com,Surabaya,Noise Cancelling Headset,7, 1250000 ,2026-07-19,COMPLETED
+ORD-1399,Kiki Saputra,kiki.saputra@yahoo.com,Semarang,External SSD 1TB,-3,Rp 980.000,10/05/2025,Shipped
+ORD-1452,Maya  Hidayat,maya.hidayat@yahoo.com,Yogyakarta,Mechanical Keyboard,6,Rp750000,2024-01-03,cancelled
+ORD-1757,Nanda Permata,,Denpasar,Wireless Mouse,3,150000,2025/12/21,Cancelled
+,,,,,,,,
+ORD-1920,Lina  Lestari,lina.lestari(at)gmail.com,Bandung,Monitor 24 inch,8,1850000,2025-10-15,Completed
+ORD-1313,  Tono Anggraini  ,tono.anggraini@yahoo.com,Jakarta,Laptop Stand,7,185.000,12/09/2026,completed
+ORD-1186,HANA HIDAYAT,hana.hidayat@outlook.com,jakarta,Laptop Stand,7,185000,2025-05-27,cancelled
+ORD-1101,JOKO HIDAYAT,joko.hidayat@yahoo.com,Surabaya,Mechanical Keyboard,,750000,11/10/2025,pending
+ORD-1177,EKO PERMATA,eko.permata@yahoo.com,Makassar,USB-C Hub,3,Rp320000,19-09-2024,cancelled
+ORD-1447,ANDI NUGROHO,andi.nugroho@gmail.com,Surabaya,Monitor 24 inch,5,1850000,12/11/2025,Completed
+ORD-1838,Putri Kusuma,putri.kusuma@yahoo.com,Semarang,MECHANICAL KEYBOARD,2,Rp750000,19-09-2025,Pending
+ORD-1007,TONO PERMATA,,bandung,Noise Cancelling Headset,4,1.250.000,16 Sep 2024,Pending
+ORD-1200,Joko Pratama,,YOGYAKARTA,External SSD 1TB,1,Rp 980.000,08-01-2024,COMPLETED
+ORD-1599,  Dewi Nugroho  ,dewi.nugroho@gmail.com,Jakarta,Noise Cancelling Headset,2,1.250.000,04-06-2026,Pending
+ORD-1619,oka santoso,,DENPASAR,USB-C Hub,8,320000,07/11/2024,completed
+ORD-1435,Kiki Kusuma,kiki.kusuma@gmail,Surabaya ,Webcam HD,2,Rp 450.000,22-06-2025,Cancelled
+ORD-1782,kiki anggraini,kiki.anggraini@outlook.com,yogyakarta,USB-C Hub,4,320.000,07/04/2024,pending
+,,,,,,,,
+ORD-1121,JOKO LESTARI,joko.lestari@yahoo.com,medan,External SSD 1TB,6,980000,06/18/2025,completed
+ORD-1430,HANA KUSUMA,hana.kusuma@yahoo.com,Denpasar ,Mechanical Keyboard,2,Rp750000,06/09/2026,Pending
+ORD-1396,Oka  Saputra,oka.saputra@outlook.com,Makassar,Mechanical Keyboard,8,750000,2026-11-27,shipped
+ORD-1369,LINA PERMATA,lina.permata@yahoo.com,Yogyakarta,Webcam HD,6,450.000,26/05/2025,Cancelled
+ORD-1298,  Hana Pratama  , HANA.PRATAMA@GMAIL.COM ,Medan,Monitor 24 inch,7,Rp1850000,2024-05-03,COMPLETED
+ORD-1083,Rizky Anggraini,rizky.anggraini(at)gmail.com,bandung,Laptop Stand,6,185000.00,27-12-2025,Completed
+ORD-1454,Citra Santoso,citra.santoso@gmail.com,Bandung,Laptop Stand,3,185000,10-07-2025,COMPLETED
+ORD-1950,TONO WIJAYA,tono.wijaya@gmail.com,Jakarta,Wireless Mouse,3,Rp150000,4 Jun 2025,Completed
+ORD-1515,Hana  Lestari,hana.lestari@yahoo.com,Makassar,External SSD 1TB,4,980000.00,26-10-2026,Pending
+ORD-1545,Budi Nugroho,budi.nugroho@outlook.com,Medan,Wireless Mouse,1,Rp150000,04/17/2024,pending
+ORD-1833,nanda nugroho,nanda.nugroho@outlook.com,Bandung,External SSD 1TB,2,Rp 980.000,2024/05/13,completed
+ORD-1185,Hana  Anggraini,hana.anggraini@gmail.com,Surabaya,Wireless Mouse,1,150000,02-04-2024,Pending
+ORD-1459,Umi Nugroho,umi.nugroho@outlook.com,Bandung,NOISE CANCELLING HEADSET,3,Rp 1.250.000,03-03-2024,cancelled
+ORD-1408,Eko Nugroho,eko.nugroho@yahoo.com,SEMARANG,Webcam HD,8,450000,2024/11/22,pending
+ORD-1516,Gilang Saputra,gilang.saputra@outlook.com,Jakarta,External SSD 1TB,1,Rp 980.000,19 Mar 2025,Pending
+ORD-1892,  Andi Kusuma  ,andi.kusuma@gmail.com,BANDUNG,Wireless Mouse,1,Rp150000,01/10/2025,Completed
+ORD-1725,JOKO NUGROHO,joko.nugroho@gmail.com,Makassar,Noise Cancelling Headset,6,1250000,06-11-2026,COMPLETED
+ORD-1918,Tono Lestari,n/a,Denpasar,Noise Cancelling Headset,5,1250000,17-06-2024,Shipped
+ORD-1385,  Putri Saputra  , PUTRI.SAPUTRA@GMAIL.COM ,Medan,USB-C Hub,3,Rp 320.000,21-01-2024,completed
+ORD-1706,Hana  Nugroho,hana.nugroho(at)gmail.com,Jakarta,USB-C Hub,2,Rp 320.000,2024-09-27,pending
+ORD-1361,  Umi Pratama  ,umi.pratama(at)gmail.com,Jakarta,External SSD 1TB,7,980.000,13 Aug 2026,Cancelled
+ORD-1752,Nanda  Nugroho,nanda.nugroho@outlook.com,makassar,Mechanical Keyboard,8,750000.00,25-06-2026,Completed
+ORD-1269,KIKI WIJAYA,kiki.wijaya@gmail.com,SEMARANG,External SSD 1TB,8, 980000 ,2025-04-19,COMPLETED
+ORD-1462,oka saputra,oka.saputra@yahoo.com,Jakarta,EXTERNAL SSD 1TB,1,Rp980000,8 Oct 2025,cancelled
+ORD-1036,indra wijaya,,Jakarta,External SSD 1TB,1,Rp 980.000,12/01/2026,shipped
+ORD-1420,  Dewi Permata  ,dewi.permata@gmail.com,SURABAYA,External SSD 1TB,2,980.000,13 Mar 2024,Completed
+ORD-1660,Andi Saputra,andi.saputra@yahoo.com,Jogjakarta,USB-C Hub,,Rp 320.000,09/10/2024,Completed
+ORD-1627,JOKO PERMATA,joko.permata@gmail.com,Makassar,Laptop Stand,4,185000,13-09-2025,Pending
+ORD-1450,Oka Permata,oka.permata@yahoo.com,yogyakarta,Mechanical Keyboard,8,Rp750000,12/08/2024,Shipped
+ORD-1483,gilang saputra, GILANG.SAPUTRA@GMAIL.COM ,YOGYAKARTA,Wireless Mouse,2,150.000,1 Mar 2026,completed
+ORD-1012,hana wijaya,hana.wijaya@outlook.com,Surabaya,Wireless Mouse,6,Rp 150.000,8 Sep 2024,Pending
+ORD-1495,Umi Nugroho,,Makassar,External SSD 1TB,1, 980000 ,22 Nov 2025,cancelled
+ORD-1557,RIZKY NUGROHO,rizky.nugroho@outlook.com,Jakarta,Webcam HD,4,Rp 450.000,04/07/2026,cancelled
+ORD-1035,Maya  Kusuma,,Denpasar,Wireless Mouse,2,150000,03/28/2025,Pending
+ORD-1419,joko saputra,joko.saputra@gmail.com,Bandung,Webcam HD,8,Rp450000,2024-09-14,cancelled
+ORD-1701,Fitri Wijaya,fitri.wijaya@gmail,Jakarta,MONITOR 24 INCH,5,Rp 1.850.000,2026/12/16,Cancelled
+ORD-1241,RIZKY ANGGRAINI, RIZKY.ANGGRAINI@GMAIL.COM ,Yogyakarta,Laptop Stand,8,185000.00,06/27/2025,cancelled
+ORD-1546,Kiki Lestari,kiki.lestari@gmail.com,Jakarta,Noise Cancelling Headset,7,1250000,02/10/2025,completed
+ORD-1471,NANDA SAPUTRA,nanda.saputra@gmail.com,Bandung,Noise Cancelling Headset,1,Rp1250000,25 Mar 2025,completed
+ORD-1657,Joko Hidayat,,Denpasar,External SSD 1TB,2,980.000,17/11/2025,Pending
+ORD-1796,Maya Santoso,maya.santoso@gmail.com,Bandung,External SSD 1TB,8,980.000,07/04/2025,shipped
+ORD-1626,JOKO KUSUMA,joko.kusuma@gmail.com,Yogyakarta,Mechanical Keyboard,2, 750000 ,2024/02/21,completed
+ORD-1735,Dewi Santoso,dewi.santoso(at)gmail.com,SURABAYA,Noise Cancelling Headset,1.0,Rp1250000,05-12-2026,completed
+ORD-1026,Budi Permata,budi.permata@outlook.com,Makassar,WIRELESS MOUSE,4,150.000,03-07-2025,Pending
+ORD-1386,SARI PRATAMA, SARI.PRATAMA@GMAIL.COM ,Yogyakarta,USB-C Hub,1, 320000 ,09/04/2025,shipped
+ORD-1423,Umi Hidayat,umi.hidayat@outlook.com,Yogyakarta,USB-C Hub,5,320.000,10/04/2026,Cancelled
+ORD-1429,Putri Anggraini, PUTRI.ANGGRAINI@GMAIL.COM ,Bandung,Noise Cancelling Headset,3,Rp 1.250.000,2026/05/12,Pending
+ORD-1093,  Dewi Anggraini  ,dewi.anggraini@yahoo.com,Bandung,Mechanical Keyboard,5,Rp750000,2024-03-09,Pending
+ORD-1266,Hana Santoso,,makassar,Laptop Stand,6,Rp185000,15-08-2025,Shipped
+ORD-1294,BUDI SANTOSO,budi.santoso@yahoo.com,Medan ,Monitor 24 inch,2,Rp 1.850.000,2024/05/20,COMPLETED
+ORD-1508,sari permata,,Semarang,Noise Cancelling Headset,6,Rp 1.250.000,21-07-2026,Shipped
+ORD-1203,Eko Pratama,eko.pratama@outlook.com,Semarang,WIRELESS MOUSE,7,Rp150000,2026-01-06,shipped
+ORD-1888,TONO HIDAYAT,tono.hidayat@outlook.com,Medan,USB-C Hub,7,320000,2024/03/18,Shipped
+ORD-1058,Umi Permata,umi.permata@yahoo.com,Jakarta,Mechanical Keyboard,6,Rp750000,11/07/2026,Completed
+ORD-1620,GILANG SANTOSO,,DENPASAR,Monitor 24 inch,5,Rp1850000,06/11/2025,shipped
+ORD-1028,Oka Saputra,oka.saputra@gmail.com,Bandung,External SSD 1TB,4,Rp 980.000,26/08/2026,Shipped
+ORD-1628,andi hidayat,andi.hidayat@yahoo.com,SEMARANG,Laptop Stand,,Rp 185.000,11/09/2025,Cancelled
+ORD-1060,Fitri  Pratama,fitri.pratama@gmail.com,Yogyakarta,Mechanical Keyboard,7,750000,8 Nov 2026,Shipped
+ORD-1047,joko kusuma,joko.kusuma@gmail,semarang,WIRELESS MOUSE,,150.000,2024/11/07,cancelled
+ORD-1239,Andi  Pratama,n/a,MEDAN,External SSD 1TB,8,Rp980000,25/02/2024,Completed
+ORD-1825,Andi Saputra, ANDI.SAPUTRA@GMAIL.COM ,Jakarta Pusat,Laptop Stand,4,185.000,15 Apr 2024,Pending
+ORD-1670,Dewi Kusuma,dewi.kusuma@gmail,Denpasar,EXTERNAL SSD 1TB,6,Rp 980.000,13 Jul 2025,completed
+ORD-1338,GILANG SANTOSO,gilang.santoso@outlook.com,Medan,USB-C HUB,3.0,320000,12/11/2024,Shipped
+ORD-1208,Eko Santoso,eko.santoso@yahoo.com,SEMARANG,Noise Cancelling Headset,1,1250000,10 Feb 2025,Completed
+ORD-1632,Oka  Hidayat,n/a,Denpasar,USB-C Hub,4,320000,07-05-2024,completed
+ORD-1841,Sari Santoso,sari.santoso@gmail.com,Yogyakarta,Monitor 24 inch,3,Rp 1.850.000,22/06/2026,cancelled
+ORD-1467,Fitri Pratama,fitri.pratama@gmail,Semarang,Wireless Mouse,2,150000.00,2025/07/04,Shipped
+ORD-1134,andi nugroho,andi.nugroho@gmail.com,Medan ,External SSD 1TB,7,Rp 980.000,27-07-2026,Pending
+ORD-1162,fitri anggraini,fitri.anggraini@gmail.com,Surabaya,USB-C Hub,, 320000 ,15/07/2026,cancelled
+ORD-1861,Gilang  Hidayat,gilang.hidayat@outlook.com,Denpasar,Webcam HD,2,450.000,2025/10/26,completed
+ORD-1033,Sari Saputra,sari.saputra@outlook.com,Jakarta,Monitor 24 inch,1,Rp 1.850.000,07/13/2024,Shipped
+ORD-1846,Sari  Saputra,sari.saputra@gmail,Jakarta,Laptop Stand,3,185000,16/01/2026,Pending
+ORD-1832,Putri Wijaya,putri.wijaya@yahoo.com,Denpasar,NOISE CANCELLING HEADSET,2,Rp 1.250.000,07/19/2024,COMPLETED
+ORD-1542,Tono Hidayat,,Surabaya,USB-C HUB,5 pcs, 320000 ,2024/12/13,Pending
+ORD-1461,Andi Lestari,andi.lestari@gmail.com,Bandung,External SSD 1TB,-3,Rp 980.000,27/07/2024,COMPLETED
+ORD-1943,Nanda Anggraini,n/a,Yogyakarta,Webcam HD,4,Rp 450.000,06-02-2024,cancelled
+ORD-1500,  Hana Kusuma  ,hana.kusuma@gmail.com,Makassar,Wireless Mouse,,150.000,2025/08/26,shipped
+ORD-1310,Lina  Anggraini,lina.anggraini@yahoo.com,Bandung,Monitor 24 inch,6.0,1850000.00,2024/10/09,Pending
+ORD-1359,  Nanda Kusuma  , NANDA.KUSUMA@GMAIL.COM ,Surabaya,Monitor 24 inch,6,1850000,13 Jul 2025,COMPLETED
+ORD-1169,Budi Saputra,budi.saputra@gmail.com,Semarang,Webcam HD,6,450000.00,28-08-2024,Pending
+ORD-1815,Maya Nugroho,maya.nugroho@yahoo.com,Medan ,MECHANICAL KEYBOARD,8, 750000 ,2025/10/06,pending
+ORD-1358,  Citra Kusuma  ,citra.kusuma@gmail.com,Jakarta,Wireless Mouse,7,150000,2024-05-02,shipped
+ORD-1267,Tono Anggraini,tono.anggraini@outlook.com,Medan,USB-C Hub,7,Rp320000,06/19/2025,cancelled
+ORD-1531,Kiki Pratama,kiki.pratama@yahoo.com,Semarang,Noise Cancelling Headset,,Rp 1.250.000,2024-06-01,Shipped
+ORD-1521,Citra  Permata,,Bandung,Laptop Stand,6,185000.00,15-08-2026,Shipped
+ORD-1367,Nanda Permata,nanda.permata@outlook.com,Medan,LAPTOP STAND,8,Rp185000,04/19/2024,cancelled
+ORD-1223,Nanda Permata,nanda.permata@outlook.com,Semarang,Monitor 24 inch,1,1850000,12/19/2026,Cancelled
+ORD-1312,Maya Anggraini,maya.anggraini@outlook.com,Makassar,Noise Cancelling Headset,3,1250000,10/15/2026,shipped
+ORD-1213,Kiki Nugroho,kiki.nugroho@gmail,surabaya,External SSD 1TB,1,980000,2026-10-17,Completed
+ORD-1324,Dewi Santoso,dewi.santoso@gmail,Makassar,Webcam HD,7 pcs,Rp 450.000,17 Jul 2024,Cancelled
+ORD-1791,Tono Wijaya,tono.wijaya@gmail.com,Bandung,Mechanical Keyboard,3,750.000,19-02-2026,COMPLETED
+ORD-1109,UMI ANGGRAINI,umi.anggraini@outlook.com,Makassar,Mechanical Keyboard,3,Rp 750.000,2026-10-05,Shipped
+ORD-1877,  Gilang Hidayat  ,gilang.hidayat@outlook.com,Semarang,Laptop Stand,6,185.000,18/05/2025,shipped
+ORD-1679,fitri nugroho,fitri.nugroho@outlook.com,Bandung,Mechanical Keyboard,4, 750000 ,2026-10-17,pending
+ORD-1767,Lina Santoso, LINA.SANTOSO@GMAIL.COM ,Yogyakarta,Monitor 24 inch,4,Rp1850000,2024-08-12,shipped
+ORD-1598,  Andi Lestari  ,andi.lestari@outlook.com,Denpasar,Wireless Mouse,4,150.000,2025-07-05,shipped
+ORD-1090,kiki saputra,kiki.saputra@outlook.com,Jakarta,Laptop Stand,4,185.000,03/03/2024,COMPLETED
+ORD-1644,citra anggraini,citra.anggraini@yahoo.com,Bandung,Noise Cancelling Headset,8.0,Rp 1.250.000,2026-01-13,COMPLETED
+ORD-1530,Citra Lestari,citra.lestari@outlook.com,Surabaya,MONITOR 24 INCH,5, 1850000 ,4 Aug 2026,COMPLETED
+ORD-1192,Joko Saputra,joko.saputra@outlook.com,Jakarta ,Webcam HD,2,450000.00,03/26/2024,Pending
+ORD-1779,  Sari Santoso  ,sari.santoso@gmail.com,Semarang,Noise Cancelling Headset,,Rp1250000,2024-08-04,cancelled
+ORD-1497,Citra Lestari,citra.lestari@gmail,Yogyakarta,LAPTOP STAND,3,185000,05/03/2025,shipped
+ORD-1854,Gilang Kusuma,gilang.kusuma@outlook.com,Medan ,LAPTOP STAND,6.0, 185000 ,09/28/2025,Pending
+ORD-1243,  Dewi Nugroho  ,dewi.nugroho@outlook.com,makassar,Laptop Stand,4,185000,2024/07/07,Completed
+ORD-1704,Kiki  Saputra,,Den Pasar,USB-C Hub,5,320000,2024-04-10,shipped
+ORD-1033,Sari Saputra,sari.saputra@outlook.com,Jakarta,Monitor 24 inch,1,Rp 1.850.000,07/13/2024,Shipped
+ORD-1893,INDRA PERMATA,indra.permata@gmail.com,Bandung,Wireless Mouse,5,Rp 150.000,10 Feb 2024,COMPLETED
+ORD-1222,indra nugroho,,Denpasar,Webcam HD,4, 450000 ,09/25/2024,Shipped
+ORD-1154,Joko Saputra,joko.saputra@gmail.com,yogyakarta,Mechanical Keyboard,6,Rp750000,2025/04/24,Pending
+ORD-1506,Budi Santoso,budi.santoso@yahoo.com,semarang,LAPTOP STAND,4,185000,2025-03-08,COMPLETED
+,,,,,,,,
+ORD-1879,  Citra Saputra  ,citra.saputra@yahoo.com,Semarang ,MONITOR 24 INCH,4, 1850000 ,2025/12/05,COMPLETED
+ORD-1393,fitri hidayat,,Denpasar,External SSD 1TB,1,980.000,23/07/2024,Completed
+ORD-1292,nanda kusuma,nanda.kusuma@yahoo.com,Medan,Monitor 24 inch,2,1850000,03/11/2024,Cancelled
+ORD-1810,Rizky Pratama,rizky.pratama@gmail.com,Surabaya,Noise Cancelling Headset,3,Rp 1.250.000,2024-11-06,Pending
+ORD-1899,Rizky Pratama,rizky.pratama@yahoo.com,Bandung,Noise Cancelling Headset,3,1.250.000,2026/03/27,Completed
+ORD-1847,UMI HIDAYAT,umi.hidayat@gmail.com,Semarang,EXTERNAL SSD 1TB,,Rp 980.000,10/25/2025,COMPLETED
+ORD-1577,Dewi Permata,dewi.permata@yahoo.com,jakarta,External SSD 1TB,4,Rp980000,09/17/2024,pending
+ORD-1032,Oka Wijaya,oka.wijaya@gmail,Surabaya ,Webcam HD,4,Rp 450.000,11 Jun 2025,pending
+ORD-1236,OKA NUGROHO,oka.nugroho@gmail,Jakarta,Monitor 24 inch,8.0,1850000,26 Nov 2025,cancelled
+ORD-1152,Dewi  Pratama,dewi.pratama@gmail.com,Bandung,MECHANICAL KEYBOARD,3,Rp750000,18 Aug 2025,completed
+ORD-1887,Andi Anggraini,andi.anggraini@gmail.com,Semarang,Webcam HD,8,Rp 450.000,23-11-2024,Completed
+ORD-1519,JOKO ANGGRAINI,joko.anggraini@yahoo.com,denpasar,MECHANICAL KEYBOARD,8,750.000,2024-06-17,Pending
+ORD-1641,Citra Permata,citra.permata@outlook.com,Bandung,Webcam HD,4,Rp450000,04/04/2026,shipped
+ORD-1451,Fitri Pratama,fitri.pratama(at)gmail.com,Bandung,Webcam HD,4.0,Rp450000,01/17/2026,Completed
+ORD-1092,  Putri Lestari  ,putri.lestari@gmail.com,Semarang,NOISE CANCELLING HEADSET,8, 1250000 ,05/25/2025,Cancelled
+,,,,,,,,
+ORD-1773,JOKO PRATAMA,joko.pratama@gmail.com,Surabaya,Webcam HD,8,Rp 450.000,10/11/2025,Shipped
+ORD-1711,Putri  Anggraini,putri.anggraini@yahoo.com,Makassar,USB-C Hub,5,320000,05/22/2024,Pending
+ORD-1845,Citra Pratama,citra.pratama@outlook.com,Medan,Noise Cancelling Headset,3.0,Rp 1.250.000,23/11/2025,Completed
+ORD-1883,Putri Hidayat,putri.hidayat@yahoo.com,Surabaya,USB-C Hub,,Rp320000,2025/09/01,completed
+,,,,,,,,
+ORD-1689,Indra Kusuma,indra.kusuma@outlook.com,Jakarta,Laptop Stand,1,185000,12/27/2025,Cancelled
+ORD-1488,Hana  Anggraini,hana.anggraini@yahoo.com,SURABAYA,Monitor 24 inch,8,1.850.000,27-01-2024,Pending
+ORD-1293,oka permata,n/a,Bandung ,USB-C Hub,3.0,320000,24 Mar 2024,Cancelled
+ORD-1878,  Hana Saputra  ,hana.saputra(at)gmail.com,MAKASSAR,External SSD 1TB,1,980000,04-09-2025,Shipped
+ORD-1409,TONO SAPUTRA,tono.saputra@outlook.com,Jakarta,Monitor 24 inch,5 pcs,Rp1850000,27-12-2025,COMPLETED
+ORD-1014,sari saputra,sari.saputra@yahoo.com,BANDUNG,USB-C Hub,7,320000,15/05/2024,COMPLETED
+ORD-1085,LINA ANGGRAINI,lina.anggraini@gmail.com,Bandung,Mechanical Keyboard,5,750.000,02-08-2025,completed
+ORD-1576,  Joko Anggraini  ,joko.anggraini@yahoo.com,Medan,WIRELESS MOUSE,8,Rp 150.000,08/02/2026,completed
+ORD-1573,Rizky Pratama,rizky.pratama@yahoo.com,Jakarta,External SSD 1TB,8,980000.00,22-11-2026,Cancelled
+ORD-1232,JOKO PERMATA,joko.permata@gmail.com,Bandung,Mechanical Keyboard,5, 750000 ,10/23/2026,Cancelled
+ORD-1445,joko lestari,n/a,Yogyakarta,Monitor 24 inch,3,1.850.000,2025-03-01,cancelled
+ORD-1179,ANDI NUGROHO,andi.nugroho@gmail.com,Yogyakarta,Laptop Stand,4,Rp 185.000,2025-05-21,pending
+ORD-1821,Gilang  Anggraini,gilang.anggraini@gmail,Makassar,Noise Cancelling Headset,7,Rp 1.250.000,03/28/2025,Completed
+ORD-1945,indra kusuma,indra.kusuma@yahoo.com,Yogyakarta,Laptop Stand,4 pcs,185.000,07/16/2024,Completed
+ORD-1479,DEWI WIJAYA,dewi.wijaya@yahoo.com,Medan,NOISE CANCELLING HEADSET,5,1250000,5 Sep 2024,completed
+ORD-1143,Fitri Hidayat,fitri.hidayat@outlook.com,Jakarta,USB-C Hub,3 pcs,320000,2026-08-06,completed
+ORD-1499,maya hidayat,maya.hidayat@gmail.com,Bandung,Mechanical Keyboard,3,Rp750000,2024-08-02,Pending
+ORD-1622,andi anggraini,andi.anggraini@outlook.com,MAKASSAR,Laptop Stand,2,185.000,10/05/2026,Completed
+ORD-1299,Eko Nugroho,eko.nugroho@yahoo.com,jakarta,Mechanical Keyboard,,750000,08/09/2026,Shipped
+ORD-1258,Fitri Anggraini,fitri.anggraini(at)gmail.com,Makassar,LAPTOP STAND,3,Rp 185.000,2025-09-10,completed
+ORD-1741,RIZKY  SAPUTRA, RIZKY.SAPUTRA@GMAIL.COM ,Denpasar,USB-C Hub,1,Rp 320.000,05-07-2026,cancelled
+ORD-1052,Kiki Nugroho,kiki.nugroho@outlook.com,Yogyakarta,Noise Cancelling Headset,2,1250000.00,27-09-2025,cancelled
+ORD-1170,  Fitri Kusuma  ,fitri.kusuma@outlook.com,Surabaya,USB-C Hub,4,Rp320000,2024/01/19,Completed
+ORD-1721,Putri Kusuma,putri.kusuma@gmail,Surabaya ,Mechanical Keyboard,5,Rp 750.000,26 Mar 2025,cancelled
+ORD-1111,OKA PERMATA,oka.permata@yahoo.com,Makassar,EXTERNAL SSD 1TB,8,980.000,06/20/2024,shipped
+ORD-1251,Andi Hidayat,andi.hidayat@outlook.com,Medan,External SSD 1TB,3,980000,03/11/2024,Cancelled
+ORD-1783,FITRI LESTARI,fitri.lestari@yahoo.com,Denpasar,Monitor 24 inch,3,1.850.000,10/22/2024,pending
+ORD-1374,andi saputra,andi.saputra@yahoo.com,Jakarta,USB-C Hub,1,Rp320000,13-11-2024,Completed
+ORD-1468,Eko Anggraini,eko.anggraini@outlook.com,Bandung,MECHANICAL KEYBOARD,1.0, 750000 ,27/08/2025,pending
+ORD-1924,Eko  Santoso,,SURABAYA,Noise Cancelling Headset,4,Rp1250000,7 Jul 2024,Completed
+ORD-1862,putri hidayat,putri.hidayat@yahoo.com,Jakarta Pusat,USB-C Hub,1, 320000 ,12/10/2024,Cancelled
+ORD-1278,UMI PERMATA,,Denpasar,Mechanical Keyboard,2,Rp750000,2025/04/12,completed
+ORD-1142,Joko Pratama,joko.pratama@outlook.com,Makasar,Laptop Stand,6, 185000 ,19 Jul 2024,cancelled
+ORD-1637,oka saputra,oka.saputra@outlook.com,Medan,MONITOR 24 INCH,7,1.850.000,06/05/2024,shipped
+ORD-1662,citra nugroho,,Makasar,USB-C Hub,4,Rp320000,2025-10-03,Shipped
+ORD-1142,Joko Pratama,joko.pratama@outlook.com,Makasar,Laptop Stand,6, 185000 ,19 Jul 2024,cancelled
+ORD-1442,Eko Kusuma,n/a,Makassar,Monitor 24 inch,6,Rp 1.850.000,28 Aug 2025,shipped
+ORD-1781,INDRA ANGGRAINI,indra.anggraini@outlook.com,Yogyakarta,Webcam HD,8, 450000 ,2024-03-16,cancelled
+ORD-1383,Indra Anggraini,indra.anggraini@outlook.com,Yogyakarta,EXTERNAL SSD 1TB,7,Rp980000,20 Mar 2024,completed
+ORD-1162,fitri anggraini,fitri.anggraini@gmail.com,Surabaya,USB-C Hub,, 320000 ,15/07/2026,cancelled
+ORD-1307,Maya Pratama,maya.pratama@outlook.com,Denpasar ,Wireless Mouse,6,Rp 150.000,04/11/2026,pending
+ORD-1802,Fitri Wijaya,fitri.wijaya@gmail,Yogyakarta,Wireless Mouse,6,Rp150000,2024/02/14,completed
+ORD-1892,  ANDI KUSUMA  ,andi.kusuma@gmail.com,BANDUNG,Wireless Mouse,1,Rp150000,01/10/2025,completed
+ORD-1836,Eko Saputra,eko.saputra@gmail.com,Makassar,Wireless Mouse,0,Rp 150.000,26/02/2026,COMPLETED
+ORD-1153,Joko  Permata,joko.permata@gmail.com,Surabaya,Monitor 24 inch,2,Rp 1.850.000,04/19/2026,Pending
+ORD-1122,joko santoso,joko.santoso@gmail.com,Medan,Webcam HD,2, 450000 ,2025/08/21,shipped
+ORD-1480,Joko  Nugroho,,Jakarta,Laptop Stand,3,185000,4 Jan 2025,cancelled
+ORD-1607,andi permata,andi.permata@yahoo.com,Semarang,Monitor 24 inch,8,1.850.000,27/12/2026,shipped
+ORD-1108,rizky santoso,rizky.santoso@yahoo.com,Medan,Mechanical Keyboard,3,750.000,06/03/2025,Shipped
+ORD-1231,INDRA ANGGRAINI,indra.anggraini@yahoo.com,Yogyakarta,Wireless Mouse,1,Rp 150.000,27-11-2024,completed
+ORD-1302,Gilang Saputra,gilang.saputra@gmail.com,Jakarta,Mechanical Keyboard,4,750.000,07/22/2025,shipped
+ORD-1806,Hana  Pratama,hana.pratama@outlook.com,Denpasar,Monitor 24 inch,6,1.850.000,2024-10-16,Shipped
+ORD-1144,Nanda  Pratama,nanda.pratama@outlook.com,Yogyakarta,LAPTOP STAND,2,Rp185000,2024-01-07,Cancelled
+ORD-1896,ANDI NUGROHO,andi.nugroho@yahoo.com,Yogyakarta,Laptop Stand,4,Rp185000,2025-01-21,pending
+ORD-1210,Tono Santoso,tono.santoso@outlook.com,Semarang,USB-C Hub,2,Rp320000,2024/11/12,cancelled
+ORD-1465,Umi Saputra,umi.saputra@yahoo.com,Yogyakarta,USB-C Hub,5,Rp320000,27-07-2025,Completed
+ORD-1816,Hana Saputra,hana.saputra@outlook.com,Medan,Monitor 24 inch,7, 1850000 ,11/04/2024,pending
+ORD-1617,HANA ANGGRAINI,hana.anggraini@gmail.com,Semarang,Wireless Mouse,3.0,150.000,13-05-2024,Cancelled
+ORD-1038,MAYA LESTARI,maya.lestari@gmail.com,Jakarta,Mechanical Keyboard,4,750.000,12/25/2024,completed
+ORD-1581,  Nanda Saputra  ,nanda.saputra@outlook.com,Surabaya,Webcam HD,5,450000,25/02/2025,Pending
+ORD-1857,CITRA WIJAYA,citra.wijaya@yahoo.com,Semarang,Wireless Mouse,1,Rp 150.000,2024/06/28,pending
+ORD-1112,OKA WIJAYA,oka.wijaya@outlook.com,Den Pasar,Webcam HD,8,Rp450000,2024/03/04,pending
+ORD-1875,Budi Hidayat,budi.hidayat(at)gmail.com,Yogyakarta,Mechanical Keyboard,,Rp750000,16/12/2025,pending
+ORD-1587,  Joko Saputra  ,joko.saputra@outlook.com,Makassar,Laptop Stand,3,185000,2024-03-07,cancelled
+ORD-1898,putri anggraini,putri.anggraini@gmail,Makassar,Monitor 24 inch,6, 1850000 ,2025-02-20,pending
+ORD-1070,eko kusuma,eko.kusuma(at)gmail.com,jakarta,Wireless Mouse,5,150.000,2024-03-18,COMPLETED
+ORD-1368,Sari  Lestari,sari.lestari@yahoo.com,Yogyakarta,Monitor 24 inch,7,1850000,2025-05-05,Cancelled
+ORD-1533,Eko Nugroho,eko.nugroho@gmail.com,Makassar,Noise Cancelling Headset,1 pcs,1250000,21/07/2026,shipped
+ORD-1804,eko pratama,eko.pratama@gmail.com,Semarang,Laptop Stand,2,185000.00,13 Dec 2024,Cancelled
+ORD-1851,Joko Kusuma,joko.kusuma@outlook.com,Yogyakarta,Monitor 24 inch,8,1850000,16/11/2024,COMPLETED
+ORD-1460,Oka Permata,oka.permata@outlook.com,Denpasar,EXTERNAL SSD 1TB,5,Rp 980.000,2026-10-12,shipped
+ORD-1659,Maya Kusuma,maya.kusuma@outlook.com,Bandung,Monitor 24 inch,5,1850000,04/02/2025,Completed
+ORD-1379,Putri Kusuma,putri.kusuma@gmail.com,Yogyakarta,Wireless Mouse,4 pcs,150000,2024-01-06,cancelled
+ORD-1274,Eko Nugroho,eko.nugroho@gmail.com,Jakarta,External SSD 1TB,4,Rp 980.000,2024-05-20,Pending
+ORD-1578,  Nanda Pratama  ,nanda.pratama@gmail,DENPASAR,Webcam HD,2,Rp 450.000,11/27/2025,completed
+ORD-1240,OKA SAPUTRA,oka.saputra@outlook.com,jakarta,External SSD 1TB,2,Rp 980.000,2025-08-11,Shipped
+ORD-1105,Fitri  Saputra,fitri.saputra@yahoo.com,Surabaya,Mechanical Keyboard,6,750000,2025/12/03,shipped
+ORD-1023,Hana Pratama,hana.pratama@yahoo.com,Semarang,USB-C Hub,7.0,320000,24 Mar 2024,shipped
+ORD-1211,Tono Lestari,tono.lestari@outlook.com,surabaya,External SSD 1TB,5,980000,28/07/2024,shipped
+ORD-1939,Oka Permata,oka.permata@gmail.com,YOGYAKARTA,Monitor 24 inch,2,1.850.000,2026-05-12,Completed
+ORD-1866,EKO KUSUMA,eko.kusuma@gmail,Bandung ,External SSD 1TB,6.0,Rp980000,04-10-2024,shipped
+ORD-1616,Nanda Kusuma,nanda.kusuma@gmail.com,Denpasar,USB-C Hub,8, 320000 ,2025/09/28,completed
+ORD-1948,maya kusuma,maya.kusuma@yahoo.com,Surabaya,Laptop Stand,7,Rp 185.000,2025-04-10,completed
+ORD-1754,INDRA PERMATA,indra.permata@gmail.com,Yogyakarta,Noise Cancelling Headset,5,Rp1250000,2024-09-09,Cancelled
+ORD-1836,Eko Saputra,eko.saputra@gmail.com,Makassar,Wireless Mouse,1,Rp 150.000,26/02/2026,COMPLETED
+ORD-1009,RIZKY PRATAMA,rizky.pratama@outlook.com,Jakarta,Mechanical Keyboard,5.0,Rp750000,10/07/2026,shipped
+ORD-1827,Hana Hidayat,hana.hidayat@outlook.com,SURABAYA,Noise Cancelling Headset,2,1250000.00,2024/06/28,pending
+ORD-1221,Rizky Kusuma,rizky.kusuma@outlook.com,Medan,MONITOR 24 INCH,2 pcs,1850000,22-09-2024,pending
+ORD-1721,Putri Kusuma,putri.kusuma@gmail,Surabaya ,Mechanical Keyboard,5,Rp 750.000,26 Mar 2025,cancelled
+ORD-1253,Andi Wijaya,n/a,Jakarta,Noise Cancelling Headset,8,1250000,20 Nov 2024,Shipped
+ORD-1171,EKO PERMATA,eko.permata(at)gmail.com,Makassar,Wireless Mouse,5,150.000,2024/12/28,Shipped
+ORD-1273,Rizky Permata,rizky.permata@yahoo.com,Makassar,Noise Cancelling Headset,1, 1250000 ,2026-07-08,Pending
+ORD-1124,Gilang Nugroho,gilang.nugroho@outlook.com,Jakarta,Noise Cancelling Headset,5,Rp 1.250.000,2024-02-21,Pending
+ORD-1746,JOKO PRATAMA,joko.pratama(at)gmail.com,Surabaya,NOISE CANCELLING HEADSET,8,Rp 1.250.000,2025-03-15,shipped
+ORD-1453,kiki kusuma,,Bandung,USB-C Hub,4.0,Rp320000,10/11/2024,Pending
+ORD-1456,Budi Anggraini,budi.anggraini@outlook.com,Bandung,Noise Cancelling Headset,8,1.250.000,22/11/2024,COMPLETED
+ORD-1666,oka santoso,oka.santoso@gmail,Medan,Mechanical Keyboard,1,Rp 750.000,2025/11/04,Cancelled
+ORD-1926,  Oka Lestari  ,oka.lestari(at)gmail.com,Denpasar,Laptop Stand,,185000.00,23/07/2024,cancelled
+ORD-1733,FITRI SANTOSO,fitri.santoso@gmail.com,Makassar,Laptop Stand,,Rp185000,07-09-2025,Shipped
+ORD-1843,Eko Pratama,eko.pratama@yahoo.com,Semarang,Laptop Stand,5,Rp185000,2025-11-19,Pending
+ORD-1769,  Citra Santoso  ,citra.santoso@yahoo.com,Bandung,Wireless Mouse,7,150000.00,28 Aug 2026,cancelled
+ORD-1101,joko hidayat,joko.hidayat@yahoo.com,Surabaya,Mechanical Keyboard,,750000,11/10/2025,Pending
+ORD-1693,oka pratama,oka.pratama(at)gmail.com,Jakarta ,Webcam HD,5,450.000,5 Aug 2025,pending
+ORD-1242,Dewi Wijaya,dewi.wijaya@outlook.com,Makassar,LAPTOP STAND,1,Rp 185.000,27-06-2025,Pending
+ORD-1818,Umi Anggraini,umi.anggraini@gmail.com,bandung,Monitor 24 inch,1, 1850000 ,2026/02/19,Pending
+ORD-1050,Andi Wijaya,andi.wijaya(at)gmail.com,Yogyakarta,Laptop Stand,1, 185000 ,2 Oct 2025,Completed
+ORD-1183,Dewi  Santoso,dewi.santoso@outlook.com,medan,USB-C HUB,1,Rp320000,2024-08-12,completed
+ORD-1289,NANDA PERMATA,nanda.permata@gmail.com,Makassar,Laptop Stand,3,185.000,26 Aug 2024,Completed
+ORD-1290,  Fitri Santoso  ,fitri.santoso@yahoo.com,Makassar,Laptop Stand,5,Rp 185.000,2025-11-04,pending
+ORD-1309,Rizky Kusuma,,Semarang,Webcam HD,1,450.000,20-04-2025,completed
+ORD-1432,Oka  Nugroho,n/a,Medan,Monitor 24 inch,1,1850000,12-04-2026,shipped
+ORD-1504,TONO KUSUMA,tono.kusuma@gmail.com,Yogyakarta ,NOISE CANCELLING HEADSET,5,Rp 1.250.000,2025/06/06,shipped
+ORD-1540,Budi Hidayat,budi.hidayat(at)gmail.com,Semarang,Wireless Mouse,3,Rp 150.000,2025-10-15,Pending
+ORD-1867,gilang santoso,gilang.santoso@outlook.com,Yogyakarta,Mechanical Keyboard,7, 750000 ,2025-11-17,cancelled
+ORD-1696,Joko Kusuma,joko.kusuma@gmail.com,Bandung,Wireless Mouse,3,150000,2025/01/10,pending
+ORD-1755,Maya Lestari,maya.lestari@yahoo.com,Medan,USB-C Hub,2,320000,05-02-2026,Cancelled
+ORD-1817,citra santoso,citra.santoso@yahoo.com,Bandung,Mechanical Keyboard,8, 750000 ,2024/10/16,Pending
+ORD-1412,Kiki Pratama,kiki.pratama@outlook.com,Bandung,Mechanical Keyboard,4.0,Rp 750.000,2024-09-08,cancelled
+ORD-1740,Indra Pratama,indra.pratama(at)gmail.com,Medan,Noise Cancelling Headset,7.0,Rp1250000,04/09/2024,pending
+ORD-1129,  Joko Hidayat  ,joko.hidayat@yahoo.com,Denpasar,Laptop Stand,4,185000,05/08/2024,shipped
+ORD-1748,Eko Hidayat,eko.hidayat@outlook.com,Denpasar,USB-C Hub,7,320000,2025-05-27,shipped
+ORD-1392,GILANG PRATAMA,gilang.pratama@gmail.com,Yogyakarta,Noise Cancelling Headset,,1.250.000,03/11/2024,Pending
+ORD-1677,Kiki  Pratama,kiki.pratama@outlook.com,Surabaya,External SSD 1TB,4,980000,2024/10/27,Completed
+ORD-1745,Nanda  Permata,nanda.permata@outlook.com,Semarang,Webcam HD,7, 450000 ,2026-01-06,Completed
+ORD-1376,Citra Saputra,citra.saputra@yahoo.com,Denpasar,Webcam HD,4,Rp 450.000,02-09-2024,cancelled
+ORD-1056,Oka Hidayat,oka.hidayat@yahoo.com,Yogyakarta,Laptop Stand,4, 185000 ,08-07-2026,COMPLETED
+ORD-1393,FITRI HIDAYAT,,Denpasar,External SSD 1TB,1,980.000,23/07/2024,completed
+ORD-1902,gilang anggraini, GILANG.ANGGRAINI@GMAIL.COM ,BANDUNG,Mechanical Keyboard,4.0,750000,01-01-2024,Pending
+ORD-1247,  Dewi Hidayat  ,,BANDUNG,EXTERNAL SSD 1TB,7,Rp 980.000,28/05/2026,Shipped
+ORD-1001,DEWI SANTOSO,dewi.santoso@outlook.com,Bandung,WEBCAM HD,4.0,Rp 450.000,2024/03/24,completed
+ORD-1175,Lina Nugroho,lina.nugroho@gmail.com,Denpasar,Mechanical Keyboard,,750.000,13/01/2024,shipped
+ORD-1553,kiki permata,kiki.permata@yahoo.com,Makassar,Wireless Mouse,5,Rp 150.000,18-10-2024,shipped
+ORD-1321,BUDI LESTARI,budi.lestari@gmail.com,Surabaya,Laptop Stand,, 185000 ,2024-12-28,shipped
+ORD-1602,Putri  Permata,putri.permata@yahoo.com,Semarang,Noise Cancelling Headset,3,1.250.000,14-07-2024,shipped
+ORD-1395,Kiki Lestari,kiki.lestari@yahoo.com,Makassar,Mechanical Keyboard,8,Rp 750.000,12/07/2026,pending
+ORD-1354,Kiki Anggraini, KIKI.ANGGRAINI@GMAIL.COM ,Semarang,Mechanical Keyboard,5,Rp750000,13-08-2026,Pending
+ORD-1527,DEWI PERMATA,dewi.permata@gmail.com,Semarang,Webcam HD,8.0,Rp450000,2024-10-01,pending
+ORD-1904,Maya Anggraini,maya.anggraini@gmail.com,DENPASAR,Mechanical Keyboard,7,750.000,2026/10/12,Completed
+ORD-1011,GILANG NUGROHO, GILANG.NUGROHO@GMAIL.COM ,MAKASSAR,Monitor 24 inch,6,Rp 1.850.000,15-09-2025,completed
+ORD-1738,Joko Nugroho,joko.nugroho@gmail,YOGYAKARTA,Noise Cancelling Headset,2,Rp 1.250.000,08/19/2025,completed
+ORD-1623,Nanda Nugroho,nanda.nugroho@gmail.com,Semarang,Wireless Mouse,8,150000.00,2024/11/15,Pending
+ORD-1299,Eko Nugroho,eko.nugroho@yahoo.com,jakarta,Mechanical Keyboard,,750000,08/09/2026,Shipped
+ORD-1612,Joko Pratama, JOKO.PRATAMA@GMAIL.COM ,Semarang,USB-C Hub,8,Rp 320.000,2024/11/03,Cancelled
+ORD-1322,oka saputra,oka.saputra@yahoo.com,Yogyakarta,Wireless Mouse,6, 150000 ,18 Dec 2024,Cancelled
+ORD-1094,budi permata,budi.permata@gmail.com,Makassar,NOISE CANCELLING HEADSET,4,1250000,12-02-2025,COMPLETED
+ORD-1472,Eko Kusuma,eko.kusuma@outlook.com,Makassar,WIRELESS MOUSE,5,150.000,22/07/2025,Pending
+ORD-1167,Nanda Saputra,nanda.saputra@gmail.com,MEDAN,Monitor 24 inch,8,1850000,2025/03/03,cancelled
+ORD-1474,kiki pratama,kiki.pratama@outlook.com,Denpasar,WIRELESS MOUSE,1 pcs,Rp150000,09-10-2026,Cancelled
+ORD-1410,Lina Pratama,lina.pratama@yahoo.com,Medan,Wireless Mouse,5,150000.00,21/07/2025,Completed
+ORD-1675,  Umi Santoso  ,umi.santoso@outlook.com,Semarang ,USB-C Hub,6,Rp 320.000,15-12-2024,COMPLETED
+ORD-1315,Hana Nugroho,hana.nugroho@outlook.com,Makassar,Webcam HD,2, 450000 ,2026/07/19,Completed
+ORD-1439,sari lestari,sari.lestari@gmail.com,Medan ,External SSD 1TB,7, 980000 ,09-07-2024,Pending
+ORD-1864,kiki pratama,kiki.pratama@gmail,Yogyakarta,NOISE CANCELLING HEADSET,5,Rp1250000,2026/04/16,Completed
+ORD-1870,FITRI WIJAYA,fitri.wijaya@yahoo.com,Bandung,Wireless Mouse,2,150000,24-06-2025,Completed
+ORD-1667,Budi Lestari,budi.lestari(at)gmail.com,Medan,USB-C Hub,8, 320000 ,22/04/2024,Completed
+ORD-1621,fitri santoso,fitri.santoso@yahoo.com,Yogyakarta,Mechanical Keyboard,7,Rp750000,06-05-2025,Pending
+ORD-1584,lina nugroho,,Makassar ,Noise Cancelling Headset,7,Rp 1.250.000,02/06/2024,Shipped
+ORD-1868,FITRI ANGGRAINI,fitri.anggraini@gmail.com,Bandung,WIRELESS MOUSE,2,Rp150000,09/04/2024,COMPLETED
+ORD-1635,DEWI HIDAYAT,dewi.hidayat@yahoo.com,Bandung ,NOISE CANCELLING HEADSET,,1.250.000,18/10/2026,shipped
+ORD-1872,Hana Kusuma,hana.kusuma@yahoo.com,Yogyakarta,USB-C Hub,1,320000.00,15 Jul 2025,Pending
+ORD-1554,Dewi Permata,dewi.permata@yahoo.com,yogyakarta,Wireless Mouse,8,150000,27-03-2025,completed
+ORD-1639,Fitri Santoso,fitri.santoso@outlook.com,Makassar,WEBCAM HD,7,Rp450000,27/10/2025,pending
+ORD-1248,  Indra Pratama  ,indra.pratama@outlook.com,Semarang,Wireless Mouse,5,150000,02-09-2024,Shipped
+ORD-1830,maya lestari, MAYA.LESTARI@GMAIL.COM ,denpasar,External SSD 1TB,5,Rp980000,2026-12-22,completed
+ORD-1844,NANDA PERMATA,nanda.permata@gmail.com,yogyakarta,Webcam HD,4 pcs,Rp 450.000,20/05/2025,cancelled
+ORD-1021,INDRA SANTOSO,indra.santoso@outlook.com,Denpasar,WIRELESS MOUSE,6, 150000 ,09/11/2024,Cancelled
+ORD-1695,  Hana Lestari  ,hana.lestari@gmail.com,Makassar,Noise Cancelling Headset,6,1250000,02/21/2025,cancelled
+ORD-1318,citra lestari,citra.lestari@outlook.com,Jakarta,Monitor 24 inch,5,Rp1850000,05-03-2025,COMPLETED
+ORD-1279,Fitri  Saputra, FITRI.SAPUTRA@GMAIL.COM ,Semarang,External SSD 1TB,1, 980000 ,26/11/2024,Completed
+ORD-1919,GILANG HIDAYAT,gilang.hidayat@yahoo.com,Semarang ,Noise Cancelling Headset,4,Rp 1.250.000,17-10-2025,cancelled
+ORD-1485,NANDA PRATAMA,nanda.pratama@yahoo.com,Surabaya,Wireless Mouse,6,150000,2024-01-23,completed
+ORD-1380,Umi Kusuma,umi.kusuma@outlook.com,Denpasar,Laptop Stand,2,Rp 185.000,11/07/2024,completed
+ORD-1275,Gilang Hidayat,n/a,Denpasar,Monitor 24 inch,6,Rp1850000,14/03/2024,Pending
+ORD-1113,GILANG PRATAMA,gilang.pratama@outlook.com,Yogyakarta,External SSD 1TB,8,Rp 980.000,16 May 2025,cancelled
+ORD-1149,Joko Pratama,joko.pratama@gmail,Bandung,Laptop Stand,7 pcs,Rp185000,2026-06-13,pending
+ORD-1631,FITRI HIDAYAT,fitri.hidayat@gmail.com,Jakarta,Laptop Stand,2,185.000,2024-01-14,COMPLETED
+ORD-1225,Nanda Hidayat,nanda.hidayat@outlook.com,Bandung,Noise Cancelling Headset,5.0, 1250000 ,2026/05/15,Shipped
+ORD-1394,  Umi Hidayat  ,umi.hidayat@yahoo.com,makassar,Wireless Mouse,6 pcs,150000.00,13/02/2024,COMPLETED
+ORD-1498,Dewi Saputra,dewi.saputra@outlook.com,Yogyakarta,Laptop Stand,6,Rp 185.000,2024-06-17,completed
+ORD-1247,  Dewi Hidayat  ,,BANDUNG,EXTERNAL SSD 1TB,7,Rp 980.000,28/05/2026,Shipped
+ORD-1661,Budi Saputra,,Surabaya,Webcam HD,1, 450000 ,2025/06/22,COMPLETED
+ORD-1152,DEWI  PRATAMA,dewi.pratama@gmail.com,Bandung,MECHANICAL KEYBOARD,3,Rp750000,18 Aug 2025,completed
+ORD-1449,Rizky Hidayat,rizky.hidayat(at)gmail.com,YOGYAKARTA,MONITOR 24 INCH,3,Rp 1.850.000,12/16/2025,COMPLETED
+ORD-1226,Nanda Santoso,nanda.santoso@yahoo.com,Surabaya,USB-C Hub,3,320.000,14-06-2024,COMPLETED
+ORD-1921,gilang nugroho,gilang.nugroho@gmail.com,MEDAN,External SSD 1TB,8,980.000,27 Oct 2026,Pending
+ORD-1840,Rizky Santoso,rizky.santoso@outlook.com,Makassar,Laptop Stand,,Rp185000,24/10/2025,pending
+ORD-1882,sari pratama,sari.pratama@yahoo.com,medan,EXTERNAL SSD 1TB,6,Rp 980.000,05/15/2024,Cancelled
+ORD-1400,Oka Pratama,oka.pratama@gmail.com,Surabaya ,USB-C HUB,5,Rp 320.000,03/27/2024,pending
+ORD-1949,EKO ANGGRAINI,,yogyakarta,MONITOR 24 INCH,8,Rp1850000,21-12-2024,pending
+ORD-1283,Hana Hidayat,n/a,MEDAN,Monitor 24 inch,6,Rp 1.850.000,01/09/2026,cancelled
+ORD-1929,Oka  Santoso,oka.santoso@yahoo.com,Bandung,Monitor 24 inch,6,1850000,07/01/2025,cancelled
+ORD-1291,Umi  Lestari,umi.lestari@yahoo.com,Bandung,USB-C Hub,5,Rp 320.000,22/06/2025,pending
+ORD-1230,Gilang Pratama, GILANG.PRATAMA@GMAIL.COM ,Jakarta,Monitor 24 inch,1, 1850000 ,2024-04-24,Pending
+ORD-1311,  Gilang Lestari  ,gilang.lestari@gmail,Makassar,Laptop Stand,3,Rp 185.000,18/12/2026,Cancelled
+ORD-1357,eko saputra,eko.saputra@yahoo.com,Medan,Webcam HD,7,450000,15 Oct 2026,pending
+ORD-1466,PUTRI PRATAMA,putri.pratama@yahoo.com,Medan ,USB-C Hub,4,Rp320000,10/16/2024,pending
+ORD-1067,Hana Anggraini,hana.anggraini@outlook.com,Denpasar,USB-C Hub,7, 320000 ,22 Jun 2025,Pending
+ORD-1543,JOKO PERMATA,joko.permata@outlook.com,Bandung,USB-C Hub,3,Rp 320.000,23/03/2025,shipped
+ORD-1770,Budi Nugroho,budi.nugroho@yahoo.com,Denpasar,MONITOR 24 INCH,1,1850000.00,2025/07/23,Completed
+ORD-1596,Andi Santoso,andi.santoso@gmail.com,Bandung,USB-C Hub,4,Rp 320.000,05/05/2024,cancelled
+ORD-1907,FITRI SANTOSO,fitri.santoso@gmail.com,Yogyakarta,WEBCAM HD,6,450000,22/02/2025,Pending
+ORD-1682,BUDI SANTOSO,budi.santoso@outlook.com,Surabaya,Laptop Stand,7,Rp185000,2024/09/16,pending
+ORD-1287,OKA HIDAYAT,oka.hidayat@yahoo.com,Surabaya,Wireless Mouse,1, 150000 ,07/19/2024,COMPLETED
+ORD-1291,Umi  Lestari,umi.lestari@yahoo.com,Bandung,USB-C Hub,5,Rp 320.000,22/06/2025,pending
+ORD-1145,  Indra Anggraini  ,indra.anggraini@gmail.com,Bandung,Webcam HD,1, 450000 ,12/22/2026,pending
+ORD-1631,FITRI HIDAYAT,fitri.hidayat@gmail.com,Jakarta,Laptop Stand,2,185.000,2024-01-14,COMPLETED
+ORD-1712,Oka Hidayat,oka.hidayat@yahoo.com,Denpasar,Laptop Stand,7,185000,15 Mar 2024,Pending
+ORD-1724,Rizky Wijaya,rizky.wijaya@outlook.com,yogyakarta,USB-C Hub,4,Rp 320.000,2025-02-02,Pending
+ORD-1216,JOKO SAPUTRA,joko.saputra@yahoo.com,Yogyakarta,Noise Cancelling Headset,5,1.250.000,21/10/2025,Completed
+ORD-1297,Joko Saputra,joko.saputra@outlook.com,Semarang,Wireless Mouse,8,150000,1 May 2025,Pending
+ORD-1537,citra nugroho,citra.nugroho@outlook.com,YOGYAKARTA,USB-C HUB,3,Rp 320.000,15/07/2025,completed
+ORD-1470,Joko Anggraini,joko.anggraini@outlook.com,semarang,USB-C Hub,2,Rp 320.000,23 Jun 2025,Pending
+ORD-1062,tono hidayat,tono.hidayat@outlook.com,Jakarta,Webcam HD,5,450000,13/11/2024,pending
+ORD-1063,HANA LESTARI,hana.lestari@gmail.com,Makassar,WEBCAM HD,3,450000.00,21/11/2024,shipped
+ORD-1930,FITRI PRATAMA, FITRI.PRATAMA@GMAIL.COM ,SURABAYA,Laptop Stand,4 pcs,Rp 185.000,07/12/2024,cancelled
+ORD-1780,gilang kusuma,gilang.kusuma@yahoo.com,Yogyakarta,External SSD 1TB,1,980000,20/07/2025,pending
+ORD-1444,Andi Anggraini, ANDI.ANGGRAINI@GMAIL.COM ,Medan,Monitor 24 inch,8,1850000,2025/02/08,shipped
+ORD-1792,Kiki Wijaya,kiki.wijaya@yahoo.com,Jakarta,USB-C Hub,6,Rp320000,2025-09-25,shipped
+ORD-1259,Tono Kusuma,tono.kusuma@gmail.com,Denpasar,Monitor 24 inch,2,Rp 1.850.000,2025/04/24,Shipped
+ORD-1897,Oka  Saputra,oka.saputra@outlook.com,Makassar,USB-C Hub,6,320000,12/18/2025,COMPLETED
+ORD-1448,KIKI ANGGRAINI,kiki.anggraini@gmail,Medan,Monitor 24 inch,3,1850000,2025/02/11,Shipped
+ORD-1267,Tono Anggraini,tono.anggraini@outlook.com,Medan,USB-C Hub,7,Rp320000,06/19/2025,cancelled
+ORD-1501,DEWI WIJAYA,dewi.wijaya@yahoo.com,Denpasar,Wireless Mouse,2,Rp 150.000,2026-04-19,completed
+ORD-1502,Eko Nugroho,eko.nugroho(at)gmail.com,Medan,Monitor 24 inch,6,1.850.000,18-10-2025,COMPLETED
+ORD-1249,BUDI PERMATA,n/a,Yogyakarta,Monitor 24 inch,7, 1850000 ,2025/09/02,Cancelled
+ORD-1649,Oka Pratama,oka.pratama@outlook.com,Semarang,Mechanical Keyboard,3,Rp 750.000,06/13/2024,Completed
+ORD-1858,TONO SAPUTRA,tono.saputra@gmail.com,Surabaya,External SSD 1TB,6,Rp 980.000,2024/05/10,cancelled
+ORD-1828,dewi kusuma,dewi.kusuma@yahoo.com,Yogyakarta,Laptop Stand,6,Rp 185.000,2026/04/15,cancelled
+ORD-1464,  Indra Permata  ,indra.permata@gmail.com,Surabaya,External SSD 1TB,2,Rp 980.000,21/10/2025,pending
+ORD-1706,Hana  Nugroho,hana.nugroho(at)gmail.com,Jakarta,USB-C Hub,2,Rp 320.000,2024-09-27,pending
+ORD-1207,Umi Permata,umi.permata@outlook.com,Medan,USB-C Hub,1.0,Rp320000,2024/06/07,cancelled
+ORD-1455,Lina  Wijaya,lina.wijaya@yahoo.com,Bandung,Noise Cancelling Headset,4,Rp1250000,13 Aug 2025,Completed
+ORD-1282,tono nugroho,tono.nugroho@yahoo.com,Yogyakarta,External SSD 1TB,7,Rp980000,25 Aug 2026,shipped
+ORD-1532,Hana  Permata, HANA.PERMATA@GMAIL.COM ,Denpasar ,LAPTOP STAND,2,185.000,12 Mar 2024,pending
+ORD-1388,Fitri Permata,fitri.permata@gmail.com,makassar,Noise Cancelling Headset,3 pcs,Rp 1.250.000,7 Dec 2025,cancelled
+ORD-1421,Hana Permata,hana.permata@yahoo.com,Makassar,External SSD 1TB,5,980.000,10/09/2026,COMPLETED
+ORD-1333,  Joko Saputra  ,joko.saputra@gmail.com,Surabaya,Monitor 24 inch,5.0,1.850.000,06/08/2025,Cancelled
+ORD-1886,sari santoso, SARI.SANTOSO@GMAIL.COM ,Surabaya,WIRELESS MOUSE,4,Rp150000,02-01-2025,Pending
+ORD-1716,maya lestari,maya.lestari@gmail.com,Jakarta,Webcam HD,3,450.000,14 Jun 2025,completed
+ORD-1151,  Umi Nugroho  ,umi.nugroho@gmail.com,Den Pasar,LAPTOP STAND,,Rp185000,05/05/2024,Shipped
+ORD-1148,INDRA SANTOSO,indra.santoso@yahoo.com,Jakarta,Mechanical Keyboard,5,750000.00,22 Oct 2026,Completed
+ORD-1458,Indra  Kusuma,indra.kusuma@yahoo.com,JAKARTA,Mechanical Keyboard,1,750.000,22 Dec 2024,cancelled
+ORD-1212,Eko Santoso,eko.santoso@yahoo.com,Makassar,Monitor 24 inch,2 pcs,Rp1850000,27 Apr 2025,Cancelled
+ORD-1350,Dewi Lestari,dewi.lestari@gmail.com,Bandung,Noise Cancelling Headset,6,Rp 1.250.000,2025-03-23,cancelled
+ORD-1690,Oka Permata, OKA.PERMATA@GMAIL.COM ,Jakarta Pusat,Webcam HD,3,450000,2025/08/24,Shipped
+ORD-1424,  Kiki Anggraini  ,kiki.anggraini@yahoo.com,YOGYAKARTA,Wireless Mouse,1,150000.00,13-02-2025,COMPLETED
+ORD-1928,maya lestari,maya.lestari@gmail.com,Denpasar,Laptop Stand,,185000,09/07/2025,Completed
+ORD-1114,Joko Anggraini,joko.anggraini@yahoo.com,Jakarta,Wireless Mouse,2,150.000,2025-03-09,Pending
+ORD-1216,JOKO SAPUTRA,joko.saputra@yahoo.com,Yogyakarta,Noise Cancelling Headset,5,1.250.000,21/10/2025,Completed
+ORD-1099,BUDI HIDAYAT,budi.hidayat@yahoo.com,Makassar,WEBCAM HD,7,Rp450000,08/09/2026,Pending
+ORD-1589,Rizky Wijaya,rizky.wijaya@yahoo.com,Semarang ,USB-C Hub,8, 320000 ,2026/07/18,cancelled
+ORD-1116,EKO HIDAYAT,eko.hidayat@yahoo.com,Surabaya,External SSD 1TB,8,980.000,2024/10/17,Cancelled
+ORD-1708,lina wijaya,lina.wijaya@outlook.com,Bandung,Laptop Stand,2,Rp185000,17-03-2025,Cancelled
+ORD-1659,Maya Kusuma,maya.kusuma@outlook.com,Bandung,Monitor 24 inch,5,1850000,04/02/2025,Completed
+ORD-1137,  Nanda Anggraini  ,nanda.anggraini@outlook.com,Denpasar,External SSD 1TB,1,980.000,22/11/2025,shipped
+ORD-1712,Oka Hidayat,oka.hidayat@yahoo.com,Denpasar,Laptop Stand,7,185000,15 Mar 2024,Pending
+ORD-1074,Dewi Hidayat,dewi.hidayat@gmail.com,BANDUNG,MONITOR 24 INCH,6,1850000,2025/06/05,completed
+ORD-1048,  Joko Santoso  ,joko.santoso@yahoo.com,Semarang,Laptop Stand,5,185000,28/12/2025,Completed
+ORD-1629,Umi  Hidayat,umi.hidayat@outlook.com,Denpasar,Noise Cancelling Headset,3,Rp 1.250.000,08-07-2026,Pending
+ORD-1317,MAYA SANTOSO,maya.santoso@gmail.com,SURABAYA,Webcam HD,1,Rp450000,2025/09/19,Cancelled
+ORD-1694,Budi Anggraini,budi.anggraini@yahoo.com,Jakarta,Laptop Stand,1 pcs,Rp185000,2025/05/01,Completed
+ORD-1136,Rizky Nugroho,rizky.nugroho@yahoo.com,Surabaya,Laptop Stand,6,Rp185000,2026/10/25,COMPLETED
+ORD-1255,Andi  Wijaya,andi.wijaya@outlook.com,Denpasar,Laptop Stand,4,Rp 185.000,7 Feb 2025,pending
+ORD-1707,  GILANG NUGROHO  ,gilang.nugroho@outlook.com,Bandung,Monitor 24 inch,8,1850000,03/27/2026,completed
+ORD-1868,FITRI ANGGRAINI,fitri.anggraini@gmail.com,Bandung,WIRELESS MOUSE,2,Rp150000,09/04/2024,COMPLETED
+ORD-1189,rizky lestari,,Semarang,Monitor 24 inch,8,Rp1850000,23-03-2024,Completed
+ORD-1650,eko saputra,,Yogyakarta,MECHANICAL KEYBOARD,2,Rp750000,15/01/2024,COMPLETED
+ORD-1132,Tono  Wijaya,,Bandung,Wireless Mouse,7,Rp 150.000,03/12/2025,Pending
+ORD-1260,Gilang  Wijaya,gilang.wijaya@gmail.com,MEDAN,USB-C Hub,1,Rp320000,21/08/2026,shipped
+ORD-1196,Umi  Kusuma,umi.kusuma@gmail,denpasar,Laptop Stand,5,185.000,18-07-2025,Cancelled
+ORD-1634,putri santoso,putri.santoso@yahoo.com,Yogyakarta,Monitor 24 inch,,Rp 1.850.000,2025/11/03,completed
+ORD-1676,Nanda Anggraini,nanda.anggraini@gmail,Jakarta,Laptop Stand,2,Rp185000,2026/01/21,Completed
+ORD-1118,Tono  Kusuma,tono.kusuma@yahoo.com,Surabaya,Laptop Stand,1,185000.00,06/08/2026,completed
+ORD-1002,Sari Lestari,,Surabaya,Monitor 24 inch,4,1850000,10/09/2025,Completed
+ORD-1510,  Kiki Hidayat  ,kiki.hidayat@outlook.com,Jakarta ,External SSD 1TB,8,Rp 980.000,19/05/2025,Shipped
+ORD-1620,GILANG SANTOSO,,DENPASAR,Monitor 24 inch,5,Rp1850000,06/11/2025,Shipped
+ORD-1262,Hana Lestari,hana.lestari@yahoo.com,Yogyakarta,Monitor 24 inch,5,Rp 1.850.000,2025/03/22,Completed
+ORD-1692,Oka  Santoso,oka.santoso@gmail.com,DENPASAR,External SSD 1TB,1, 980000 ,01/12/2025,Completed
+ORD-1128,JOKO KUSUMA,joko.kusuma@gmail,medan,Wireless Mouse,5,150000,12/08/2025,Completed
+ORD-1256,BUDI WIJAYA,budi.wijaya@yahoo.com,Denpasar,Mechanical Keyboard,1,Rp 750.000,18-05-2024,Completed
+ORD-1911,SARI NUGROHO,,semarang,EXTERNAL SSD 1TB,2,Rp 980.000,2024-10-14,Cancelled
+ORD-1941,Rizky  Kusuma,rizky.kusuma@outlook.com,Bandung,Mechanical Keyboard,8,Rp750000,25-07-2025,cancelled
+ORD-1593,Gilang Saputra,gilang.saputra@yahoo.com,Surabaya,Laptop Stand,6,Rp 185.000,19 Apr 2025,Completed
+ORD-1742,sari nugroho,sari.nugroho@outlook.com,Surabaya,Mechanical Keyboard,4,750.000,15-04-2025,completed
+ORD-1605,TONO WIJAYA,n/a,Jakarta,External SSD 1TB,3,Rp 980.000,12-03-2024,COMPLETED
+,,,,,,,,
+ORD-1771,Fitri  Hidayat,n/a,Makassar,MONITOR 24 INCH,6,1.850.000,26/04/2024,Shipped
+ORD-1353,Fitri  Hidayat,fitri.hidayat@yahoo.com,Surabaya,Noise Cancelling Headset,8,1.250.000,3 Jan 2025,Completed
+ORD-1912,Andi Wijaya,andi.wijaya@gmail.com,Semarang,Webcam HD,1,Rp 450.000,2025/03/11,Cancelled
+ORD-1541,  Maya Kusuma  ,maya.kusuma@outlook.com,Denpasar,Mechanical Keyboard,4,750000,2025-03-27,Completed
+ORD-1198,Putri Anggraini,n/a,Jakarta,Noise Cancelling Headset,4,1250000,8 Feb 2024,pending
+ORD-1301,indra permata,indra.permata@gmail.com,Bandung,Mechanical Keyboard,8,750000,27/04/2024,completed
+ORD-1628,andi hidayat,andi.hidayat@yahoo.com,SEMARANG,Laptop Stand,,Rp 185.000,11/09/2025,Cancelled
+ORD-1217,JOKO ANGGRAINI,joko.anggraini@gmail.com,Jakarta Pusat,Monitor 24 inch,3,1850000.00,10/01/2026,pending
+ORD-1528,GILANG WIJAYA,gilang.wijaya@yahoo.com,Makassar,Laptop Stand,2,185.000,6 Dec 2024,Completed
+ORD-1061,Sari Pratama,sari.pratama@yahoo.com,Yogyakarta,Mechanical Keyboard,8,750.000,10/10/2025,Pending
+ORD-1244,OKA SAPUTRA,oka.saputra@outlook.com,Yogyakarta,USB-C Hub,8, 320000 ,24/09/2024,COMPLETED
+ORD-1840,RIZKY SANTOSO,rizky.santoso@outlook.com,Makassar,Laptop Stand,,Rp185000,24/10/2025,pending
+ORD-1505,Hana Saputra,,JAKARTA,NOISE CANCELLING HEADSET,7.0,Rp1250000,06/07/2024,pending
+ORD-1884,RIZKY SANTOSO,rizky.santoso@outlook.com,SEMARANG,USB-C Hub,8,Rp 320.000,02/05/2024,Completed
+ORD-1714,BUDI NUGROHO,budi.nugroho@gmail.com,Surabaya,External SSD 1TB,4.0,980000,2025/11/27,pending
+ORD-1280,Indra  Permata,indra.permata@gmail.com,Bandung,Noise Cancelling Headset,7,1.250.000,10/07/2025,Shipped
+ORD-1536,  Putri Wijaya  ,putri.wijaya@outlook.com,Denpasar,Noise Cancelling Headset,7,Rp 1.250.000,16 Mar 2025,Pending
+ORD-1801,MAYA HIDAYAT,maya.hidayat@outlook.com,Surabaya,WEBCAM HD,6,450.000,2024/01/11,completed
+ORD-1111,OKA PERMATA,oka.permata@yahoo.com,Makassar,EXTERNAL SSD 1TB,8,980.000,06/20/2024,shipped
+ORD-1622,andi anggraini,andi.anggraini@outlook.com,MAKASSAR,Laptop Stand,2,185.000,10/05/2026,Completed
+ORD-1522,Maya Kusuma,maya.kusuma@outlook.com,Surabaya,USB-C HUB,7,Rp 320.000,20/03/2024,Shipped
+ORD-1914,nanda santoso,nanda.santoso@yahoo.com,Denpasar,Monitor 24 inch,1,1850000,1 Jul 2025,Cancelled
+ORD-1130,UMI WIJAYA,umi.wijaya@outlook.com,Semarang,EXTERNAL SSD 1TB,6,980.000,2024-10-04,shipped
+ORD-1224,Joko Pratama,joko.pratama@outlook.com,Surabaya,USB-C Hub,5,Rp 320.000,05/08/2024,Shipped
+ORD-1482,Indra Wijaya,indra.wijaya@outlook.com,Bandung,USB-C HUB,1,320.000,2026-11-26,Cancelled
+ORD-1885,Putri  Permata,putri.permata@gmail,Semarang,WIRELESS MOUSE,7,Rp150000,05/12/2025,completed
+ORD-1646,Joko Wijaya,joko.wijaya@outlook.com,yogyakarta,Webcam HD,6,450.000,9 Jul 2026,cancelled
+ORD-1848,Lina Saputra,lina.saputra@gmail.com,Surabaya,Laptop Stand,1,Rp 185.000,5 Jul 2025,Completed
+ORD-1583,Citra Santoso, CITRA.SANTOSO@GMAIL.COM ,Makassar,MONITOR 24 INCH,7,Rp 1.850.000,2026-05-23,Shipped
+ORD-1729,tono permata,,Semarang,NOISE CANCELLING HEADSET,5,Rp 1.250.000,16/11/2026,cancelled
+ORD-1173,oka hidayat,n/a,Medan,Mechanical Keyboard,7,750.000,07/27/2024,completed
+ORD-1343,  Rizky Anggraini  ,rizky.anggraini@outlook.com,Jakarta,Noise Cancelling Headset,1,1250000,11 Nov 2024,cancelled
+ORD-1084,Fitri Saputra,fitri.saputra@outlook.com,makassar,EXTERNAL SSD 1TB,8,Rp980000,11/21/2026,completed
+ORD-1254,Sari  Nugroho,sari.nugroho@outlook.com,Semarang,WIRELESS MOUSE,6.0,150000,2026/09/15,Cancelled
+ORD-1774,Eko Kusuma,eko.kusuma@yahoo.com,Yogyakarta,Wireless Mouse,5,Rp 150.000,2025/12/17,pending
+ORD-1299,Eko Nugroho,eko.nugroho@yahoo.com,jakarta,Mechanical Keyboard,,750000,08/09/2026,Shipped
+ORD-1163,Tono Permata,tono.permata@gmail.com,Bandung,Monitor 24 inch,1,Rp 1.850.000,2024-04-09,Shipped
+ORD-1719,Joko Nugroho,joko.nugroho@yahoo.com,Bandung ,External SSD 1TB,4,Rp980000,21-05-2024,Cancelled
+ORD-1750,  Kiki Permata  ,kiki.permata@gmail.com,Medan,USB-C Hub,7, 320000 ,2024-05-10,cancelled
+ORD-1705,NANDA ANGGRAINI,nanda.anggraini@yahoo.com,Yogyakarta ,Webcam HD,6,Rp450000,2024/06/10,Completed
+ORD-1416,ANDI WIJAYA,andi.wijaya@outlook.com,Semarang,USB-C HUB,5,320000.00,2026/06/12,shipped
+,,,,,,,,
+ORD-1481,UMI PRATAMA,umi.pratama@gmail.com,Denpasar,USB-C Hub,8,Rp 320.000,15-11-2025,cancelled
+ORD-1044,DEWI LESTARI,dewi.lestari@yahoo.com,Jakarta,Webcam HD,4,Rp 450.000,10 Mar 2025,Completed
+ORD-1489,Lina Lestari,lina.lestari@yahoo.com,Bandung,Webcam HD,1,450000,18/12/2024,Cancelled
+ORD-1753,Eko Santoso,eko.santoso@yahoo.com,Jakarta,NOISE CANCELLING HEADSET,5,1.250.000,2024-09-27,pending
+ORD-1681,lina wijaya,,Jakarta,Monitor 24 inch,2,1.850.000,05/08/2026,completed
+ORD-1603,Citra  Lestari,citra.lestari@gmail.com,Jakarta,Noise Cancelling Headset,1,1250000.00,12/01/2024,Shipped
+ORD-1097,  Rizky Anggraini  ,rizky.anggraini@outlook.com,Jakarta,WIRELESS MOUSE,7, 150000 ,2025-01-21,pending
+ORD-1894,Andi  Wijaya,n/a,YOGYAKARTA,Mechanical Keyboard,4,Rp750000,23 Oct 2025,completed
+ORD-1727,Budi  Kusuma, BUDI.KUSUMA@GMAIL.COM ,Jakarta,External SSD 1TB,3,980000,2024/06/21,Shipped
+ORD-1054,oka wijaya,oka.wijaya@yahoo.com,Semarang,USB-C HUB,8,320.000,23-09-2025,COMPLETED
+ORD-1276,Sari  Anggraini,sari.anggraini@outlook.com,Makassar,External SSD 1TB,3,980000,2025-09-18,shipped
+ORD-1718,Citra  Wijaya,citra.wijaya@gmail.com,Denpasar ,Monitor 24 inch,1,Rp1850000,2024/12/27,completed
+ORD-1698,Rizky Anggraini,rizky.anggraini@yahoo.com,Semarang,External SSD 1TB,6,Rp980000,2025-04-27,shipped
+ORD-1728,Lina Kusuma,,surabaya,Monitor 24 inch,5,1.850.000,21/09/2026,Cancelled
+ORD-1431,Sari  Hidayat,sari.hidayat@outlook.com,Surabaya,Laptop Stand,7,Rp 185.000,20 May 2025,shipped
+ORD-1758,Sari Lestari,sari.lestari@outlook.com,Surabaya,Wireless Mouse,6,150000,07-08-2026,Shipped
+ORD-1403,  Dewi Nugroho  ,dewi.nugroho@outlook.com,Semarang,Wireless Mouse,7,Rp150000,2026-04-15,Completed
+ORD-1717,FITRI NUGROHO,,Bandung,Webcam HD,1,450000,11/25/2024,completed
+ORD-1723,Sari Saputra,sari.saputra@outlook.com,Bandung,External SSD 1TB,6 pcs,Rp 980.000,2024-06-15,COMPLETED
+ORD-1700,HANA PERMATA,hana.permata@outlook.com,Surabaya,USB-C Hub,5,320000,11 Jun 2025,completed
+ORD-1723,Sari Saputra,sari.saputra@outlook.com,Bandung,External SSD 1TB,6 pcs,Rp 980.000,2024-06-15,COMPLETED
+ORD-1942,indra pratama, INDRA.PRATAMA@GMAIL.COM ,Jakarta Pusat,USB-C Hub,4,320.000,13 Oct 2024,COMPLETED
+ORD-1305,  Hana Hidayat  ,hana.hidayat@yahoo.com,Jakarta,Noise Cancelling Headset,8, 1250000 ,23/01/2024,COMPLETED
+ORD-1067,Hana Anggraini,hana.anggraini@outlook.com,Denpasar,USB-C Hub,7, 320000 ,22 Jun 2025,Pending
+ORD-1592,KIKI SANTOSO,kiki.santoso@outlook.com,Bandung,Wireless Mouse,6,Rp150000,09-12-2024,Cancelled
+ORD-1563,Andi Anggraini,andi.anggraini@gmail.com,Medan,EXTERNAL SSD 1TB,6,980.000,01/05/2024,Cancelled
+ORD-1925,DEWI LESTARI,dewi.lestari(at)gmail.com,Semarang,MONITOR 24 INCH,4,Rp1850000,2024/08/20,Pending
+ORD-1555,Umi  Hidayat,umi.hidayat@yahoo.com,Medan,Webcam HD,2,Rp450000,19-12-2025,shipped
+ORD-1564,Fitri Permata,fitri.permata@outlook.com,yogyakarta,Wireless Mouse,4,150000,01/17/2025,Cancelled
+ORD-1319,eko saputra,eko.saputra@outlook.com,Semarang,Laptop Stand,8, 185000 ,2025/11/19,Completed
+ORD-1284,Kiki Hidayat, KIKI.HIDAYAT@GMAIL.COM ,Semarang ,Laptop Stand,5,Rp 185.000,22/12/2024,pending
+ORD-1051,Putri Hidayat,putri.hidayat@outlook.com,Jogjakarta,Monitor 24 inch,6,1.850.000,4 Nov 2025,Completed
+ORD-1238,Andi Anggraini,andi.anggraini@gmail,Semarang,Laptop Stand,6,Rp 185.000,2026/09/23,completed
+ORD-1070,EKO KUSUMA,eko.kusuma(at)gmail.com,jakarta,Wireless Mouse,5,150.000,2024-03-18,completed
+ORD-1597,tono saputra,tono.saputra@yahoo.com,BANDUNG,USB-C HUB,5,Rp 320.000,5 Aug 2025,COMPLETED
+ORD-1820,Joko Permata,joko.permata@gmail.com,Medan,WIRELESS MOUSE,8,150000,06/27/2025,COMPLETED
+ORD-1591,Indra Santoso,indra.santoso@yahoo.com,MAKASSAR,Laptop Stand,4,185000.00,1 Feb 2026,Shipped
+ORD-1188,  Hana Pratama  ,hana.pratama@gmail.com,MAKASSAR,Wireless Mouse,7,150000.00,2024-04-18,shipped
+ORD-1127,UMI PERMATA,umi.permata@yahoo.com,Makassar,MONITOR 24 INCH,6,Rp1850000,07/22/2024,pending
+ORD-1326,Indra Permata,indra.permata@gmail.com,Denpasar,Wireless Mouse,5, 150000 ,11 Mar 2024,shipped
+ORD-1342,  Dewi Santoso  ,dewi.santoso@outlook.com,SEMARANG,External SSD 1TB,2,980000,10/14/2024,Shipped
+ORD-1271,hana permata,hana.permata@yahoo.com,Yogyakarta,USB-C HUB,3,Rp 320.000,2026-11-17,shipped
+ORD-1098,Eko Santoso,eko.santoso@gmail.com,SURABAYA,Noise Cancelling Headset,6,Rp1250000,2024-11-15,shipped
+ORD-1880,Indra Hidayat,indra.hidayat@outlook.com,Bandung,EXTERNAL SSD 1TB,6,980.000,2026/09/07,Shipped
+ORD-1372,Indra Permata,indra.permata@yahoo.com,Jakarta Pusat,Noise Cancelling Headset,5,Rp 1.250.000,09/02/2024,Pending
+ORD-1103,  Lina Hidayat  ,lina.hidayat@yahoo.com,Bandung,Monitor 24 inch,1, 1850000 ,22/03/2026,Completed
+ORD-1614,Eko Kusuma,eko.kusuma@gmail.com,YOGYAKARTA,External SSD 1TB,2,Rp 980.000,03/25/2024,pending
+ORD-1618,  Oka Wijaya  ,oka.wijaya@gmail.com,Makassar,Mechanical Keyboard,3,750000.00,2024-07-25,Shipped
+ORD-1538,Andi Anggraini,andi.anggraini@yahoo.com,Medan,Noise Cancelling Headset,8,Rp 1.250.000,2025-07-13,Pending
+ORD-1916,Indra Saputra,indra.saputra@yahoo.com,Yogyakarta,Noise Cancelling Headset,5, 1250000 ,11-10-2026,COMPLETED
+ORD-1096,Citra Wijaya,citra.wijaya@gmail.com,Makasar,External SSD 1TB,1,Rp 980.000,10/08/2026,Completed
+ORD-1190,TONO WIJAYA,tono.wijaya@gmail.com,Semarang,USB-C Hub,7,Rp320000,19-10-2024,pending
+ORD-1336,Fitri Pratama,fitri.pratama@yahoo.com,surabaya,USB-C HUB,1, 320000 ,05/10/2025,completed
+ORD-1153,JOKO  PERMATA,joko.permata@gmail.com,Surabaya,Monitor 24 inch,2,Rp 1.850.000,04/19/2026,pending
+ORD-1027,Kiki Permata,kiki.permata@gmail.com,Medan,Webcam HD,3,Rp 450.000,2024/07/22,pending
+ORD-1024,Gilang Saputra,gilang.saputra@yahoo.com,Bandung,Noise Cancelling Headset,5,Rp1250000,2024/04/01,pending
+ORD-1417,Gilang Nugroho,gilang.nugroho@outlook.com,Surabaya,USB-C Hub,1,Rp320000,17 Apr 2024,Pending
+ORD-1074,Dewi Hidayat,dewi.hidayat@gmail.com,BANDUNG,MONITOR 24 INCH,6,1850000,2025/06/05,completed
+ORD-1316,umi nugroho,umi.nugroho@yahoo.com,Denpasar,WIRELESS MOUSE,7,150000.00,2024/01/25,completed
+ORD-1511,NANDA PERMATA,nanda.permata@gmail,Yogyakarta,USB-C Hub,,320.000,09/03/2025,Pending
+ORD-1741,Rizky  Saputra, RIZKY.SAPUTRA@GMAIL.COM ,Denpasar,USB-C Hub,1,Rp 320.000,05-07-2026,Cancelled
+ORD-1373,Fitri Saputra,fitri.saputra@gmail,Yogyakarta,MECHANICAL KEYBOARD,3 pcs,750.000,07/07/2026,cancelled
+ORD-1347,Rizky Santoso,rizky.santoso@yahoo.com,Surabaya,EXTERNAL SSD 1TB,3,980.000,16/06/2024,shipped
+ORD-1077,  Kiki Hidayat  ,kiki.hidayat(at)gmail.com,JAKARTA,Wireless Mouse,3,150.000,22/10/2024,pending
+ORD-1422,Oka Wijaya,oka.wijaya@gmail,Bandung,Mechanical Keyboard,5,Rp 750.000,08/08/2025,Pending
+ORD-1765,Oka Pratama,oka.pratama@outlook.com,Surabaya,USB-C HUB,7,Rp320000,18 Jan 2025,Pending
+,,,,,,,,
+ORD-1157,oka nugroho,n/a,Surabaya,Mechanical Keyboard,7 pcs,750000,21 Mar 2025,Pending
+ORD-1389,Nanda Pratama,nanda.pratama@outlook.com,Surabaya,Noise Cancelling Headset,4,Rp1250000,2025/10/06,cancelled
+ORD-1915,Nanda Pratama,nanda.pratama@outlook.com,Bandung,Laptop Stand,5,Rp 185.000,02/14/2025,Pending
+ORD-1713,Hana Santoso,,Makasar,Webcam HD,5,Rp450000,28 Apr 2026,Shipped
+ORD-1141,  Rizky Saputra  ,rizky.saputra@outlook.com,Semarang,EXTERNAL SSD 1TB,2,980.000,07-06-2025,Pending
+ORD-1274,Eko Nugroho,eko.nugroho@gmail.com,Jakarta,External SSD 1TB,4,Rp 980.000,2024-05-20,Pending
+ORD-1835,Umi Saputra,umi.saputra(at)gmail.com,Makassar,USB-C Hub,4,320000,28/02/2025,Cancelled
+ORD-1057,Putri  Santoso,putri.santoso@outlook.com,Surabaya,USB-C Hub,6,320.000,08/04/2024,pending
+ORD-1110,gilang kusuma,gilang.kusuma@yahoo.com,Semarang,Monitor 24 inch,1,Rp 1.850.000,2025-11-18,COMPLETED
+ORD-1314,joko lestari,joko.lestari@outlook.com,SURABAYA,Laptop Stand,6,Rp185000,2024/12/27,shipped
+ORD-1301,indra permata,indra.permata@gmail.com,Bandung,Mechanical Keyboard,8,750000,27/04/2024,completed
+ORD-1436,Indra Saputra,indra.saputra@outlook.com,Denpasar,Mechanical Keyboard,4,Rp 750.000,2026-02-25,COMPLETED
+ORD-1550,Oka Wijaya,oka.wijaya@gmail.com,Bandung,External SSD 1TB,4,980000,6 Apr 2024,Shipped
+ORD-1320,  Dewi Permata  ,dewi.permata@yahoo.com,Surabaya,Monitor 24 inch,6,Rp1850000,11/04/2025,cancelled
+ORD-1474,kiki pratama,kiki.pratama@outlook.com,Denpasar,WIRELESS MOUSE,1 pcs,Rp150000,09-10-2026,Cancelled
+ORD-1325,Andi Santoso,,Makassar,Laptop Stand,5,185000,08/13/2025,completed
+ORD-1654,ANDI WIJAYA,andi.wijaya@gmail.com,Surabaya,USB-C Hub,8, 320000 ,8 Dec 2025,pending
+ORD-1034,Maya  Permata,maya.permata@outlook.com,Denpasar,Laptop Stand,8,185000,2024/05/14,completed
+ORD-1640,hana wijaya,,Jakarta,Laptop Stand,6,Rp185000,25/03/2025,Cancelled
+ORD-1123,hana santoso,hana.santoso@outlook.com,SURABAYA,Laptop Stand,4,Rp185000,14 Feb 2024,cancelled
+ORD-1829,  Sari Santoso  ,sari.santoso@yahoo.com,Medan,Noise Cancelling Headset,8,1.250.000,22-02-2024,COMPLETED
+ORD-1934,  Budi Saputra  ,budi.saputra@yahoo.com,Semarang,USB-C Hub,3,Rp 320.000,2024/10/27,completed
+ORD-1565,RIZKY LESTARI,rizky.lestari@gmail.com,Surabaya,Mechanical Keyboard,1,Rp 750.000,2024/01/07,Pending
+ORD-1567,  Gilang Hidayat  ,,SEMARANG,USB-C HUB,7.0,320.000,2024-06-26,pending
+ORD-1863,Budi Pratama,budi.pratama@gmail.com,Medan,Wireless Mouse,1,150000,7 Jul 2025,Pending
+ORD-1485,NANDA PRATAMA,nanda.pratama@yahoo.com,Surabaya,Wireless Mouse,6,150000,2024-01-23,completed
+ORD-1140,  Gilang Wijaya  , GILANG.WIJAYA@GMAIL.COM ,Makassar,External SSD 1TB,4,Rp980000,12/07/2026,pending
+ORD-1608,Maya Kusuma,maya.kusuma@gmail.com,Yogyakarta,Wireless Mouse,4,Rp150000,2025-03-27,pending
+ORD-1120,  Maya Hidayat  ,maya.hidayat@outlook.com,Medan,USB-C Hub,8,320.000,18/06/2026,Shipped
+ORD-1076,PUTRI LESTARI,putri.lestari@yahoo.com,Jakarta,Mechanical Keyboard,6,Rp 750.000,06/04/2026,shipped
+ORD-1534,UMI PERMATA,umi.permata@gmail.com,Jakarta,NOISE CANCELLING HEADSET,3,Rp 1.250.000,2025/11/01,Cancelled
+ORD-1609,Nanda Lestari,nanda.lestari@gmail.com,Semarang,Webcam HD,2 pcs,450.000,02/12/2024,shipped
+ORD-1099,BUDI HIDAYAT,budi.hidayat@yahoo.com,Makassar,WEBCAM HD,7,Rp450000,08/09/2026,Pending
+ORD-1138,Joko  Pratama,joko.pratama@gmail,Semarang,External SSD 1TB,1 pcs,Rp980000,07/14/2026,Completed
+ORD-1088,Citra Hidayat,citra.hidayat@outlook.com,Surabaya,Mechanical Keyboard,7,Rp750000,24-05-2025,Pending
+ORD-1473,OKA LESTARI,oka.lestari@yahoo.com,Surabaya,External SSD 1TB,6,980.000,04/10/2025,Cancelled
+ORD-1814,RIZKY WIJAYA,rizky.wijaya@yahoo.com,SURABAYA,External SSD 1TB,4,Rp980000,05/27/2025,completed
+ORD-1008,Umi Saputra,umi.saputra@yahoo.com,Bandung,Webcam HD,,450000.00,18-11-2024,Shipped
+ORD-1917,Putri Hidayat,,Medan,Mechanical Keyboard,8,Rp 750.000,09/17/2025,shipped
+ORD-1909,Oka Saputra,oka.saputra@outlook.com,Bandung,NOISE CANCELLING HEADSET,7,1250000.00,2024-12-17,Completed
+ORD-1347,Rizky Santoso,rizky.santoso@yahoo.com,Surabaya,EXTERNAL SSD 1TB,3,980.000,16/06/2024,shipped
+ORD-1665,andi permata,andi.permata@gmail.com,MEDAN,Mechanical Keyboard,3, 750000 ,26 May 2026,Cancelled
+ORD-1382,Fitri Santoso,fitri.santoso@outlook.com,Medan,External SSD 1TB,2, 980000 ,06/01/2024,COMPLETED
+ORD-1252,  HANA PRATAMA  ,hana.pratama@gmail.com,Makassar,Mechanical Keyboard,3, 750000 ,18 Sep 2025,cancelled
+ORD-1018,Hana Nugroho,hana.nugroho@gmail.com,Yogyakarta,Monitor 24 inch,3.0,1.850.000,2025/08/11,Shipped
+ORD-1364,PUTRI KUSUMA,putri.kusuma@outlook.com,Medan,Noise Cancelling Headset,7 pcs,1.250.000,10/05/2025,completed
+ORD-1585,PUTRI HIDAYAT,putri.hidayat@gmail.com,Makassar,Noise Cancelling Headset,5,1.250.000,2024/02/22,pending
+ORD-1889,kiki lestari,,Denpasar ,NOISE CANCELLING HEADSET,5,Rp 1.250.000,21/02/2025,shipped
+ORD-1193,Rizky Santoso,rizky.santoso@outlook.com,SEMARANG,WEBCAM HD,5,Rp 450.000,2024-01-13,shipped
+ORD-1464,  Indra Permata  ,indra.permata@gmail.com,Surabaya,External SSD 1TB,2,Rp 980.000,21/10/2025,pending
+ORD-1038,maya lestari,maya.lestari@gmail.com,Jakarta,Mechanical Keyboard,4,750.000,12/25/2024,completed
+ORD-1043,oka nugroho,oka.nugroho@gmail,Surabaya ,Webcam HD,5,450.000,2024/02/24,Shipped
+ORD-1204,lina hidayat,n/a,Bandung,USB-C Hub,2,Rp 320.000,1 Aug 2025,Pending
+ORD-1378,Kiki Santoso,kiki.santoso@yahoo.com,Surabaya,Noise Cancelling Headset,1 pcs,1250000.00,7 Feb 2025,completed
+ORD-1658,Lina Lestari,lina.lestari@outlook.com,Yogyakarta,Mechanical Keyboard,4,750000,11/04/2025,pending
+ORD-1330,  Citra Saputra  ,citra.saputra@gmail.com,Semarang ,USB-C Hub,8,320000,28 Mar 2025,shipped
+ORD-1397,OKA WIJAYA,n/a,Surabaya,Mechanical Keyboard,7, 750000 ,05/03/2024,Pending
+ORD-1469,  Fitri Nugroho  ,fitri.nugroho@gmail.com,Semarang,External SSD 1TB,8,Rp 980.000,21 Mar 2024,pending
+ORD-1790,Maya Saputra,maya.saputra@outlook.com,Makassar,Wireless Mouse,1, 150000 ,01-06-2026,Completed
+ORD-1571,Hana Kusuma,hana.kusuma@yahoo.com,Denpasar,Monitor 24 inch,8,Rp 1.850.000,12-08-2024,Completed
+ORD-1507,  Maya Wijaya  ,maya.wijaya@gmail.com,Denpasar,NOISE CANCELLING HEADSET,4,1250000,08/08/2025,shipped
+ORD-1800,Lina Kusuma,lina.kusuma@outlook.com,Surabaya,Monitor 24 inch,3,Rp 1.850.000,06/03/2025,Shipped
+ORD-1673,Maya Saputra,maya.saputra@outlook.com,DENPASAR,USB-C HUB,5,Rp 320.000,11-12-2024,Completed
+ORD-1233,Gilang  Hidayat, GILANG.HIDAYAT@GMAIL.COM ,Yogyakarta,MONITOR 24 INCH,5,1850000,2024/01/18,cancelled
+ORD-1763,  Hana Permata  , HANA.PERMATA@GMAIL.COM ,Bandung,USB-C Hub,7,320000.00,04-02-2026,Pending
+ORD-1069,Oka Wijaya,oka.wijaya@gmail.com,Bandung,Laptop Stand,1,185000,08/06/2024,pending
+ORD-1715,Eko Kusuma,eko.kusuma@outlook.com,Bandung,Wireless Mouse,1,Rp 150.000,25/02/2025,Cancelled
+ORD-1766,Gilang Santoso,gilang.santoso@outlook.com,Denpasar,Laptop Stand,3,185.000,17 Oct 2026,Completed
+ORD-1601,  Eko Permata  ,eko.permata@gmail.com,Bandung,EXTERNAL SSD 1TB,8,Rp980000,19 Feb 2024,Pending
+ORD-1793,Kiki Permata,kiki.permata@outlook.com,Semarang,USB-C Hub,5,320000,2024/10/22,COMPLETED
+ORD-1496,Lina  Anggraini,lina.anggraini@yahoo.com,Semarang,Wireless Mouse,4,150000,14/05/2024,Pending
+ORD-1653,Hana Kusuma,hana.kusuma@yahoo.com,Yogyakarta ,Monitor 24 inch,7,Rp1850000,2025/02/08,Shipped
+ORD-1849,HANA KUSUMA,hana.kusuma@yahoo.com,Jakarta,Webcam HD,3,Rp450000,11/09/2024,Completed
+ORD-1195,Budi Saputra,budi.saputra@yahoo.com,denpasar,Wireless Mouse,3,Rp150000,27/07/2026,completed
+ORD-1172,Nanda Permata,nanda.permata@yahoo.com,Yogyakarta,External SSD 1TB,,980000.00,17-07-2024,Completed
+ORD-1218,Oka  Anggraini,oka.anggraini@yahoo.com,Makassar,Monitor 24 inch,2,1850000,2024-04-12,Shipped
+ORD-1413,Lina Nugroho,lina.nugroho@outlook.com,MEDAN,Noise Cancelling Headset,3,1250000,17/10/2025,shipped
+ORD-1795,Gilang Nugroho,,yogyakarta,USB-C Hub,,320000,07-04-2025,shipped
+ORD-1525,Putri Saputra,putri.saputra@yahoo.com,Medan,Mechanical Keyboard,,Rp 750.000,11/08/2026,Completed
+ORD-1107,RIZKY PERMATA,rizky.permata@outlook.com,makassar,Monitor 24 inch,2,1.850.000,21/06/2024,Pending
+ORD-1443,Andi Santoso,andi.santoso(at)gmail.com,Denpasar,Laptop Stand,2,185000,09/04/2025,Completed
+ORD-1775,RIZKY HIDAYAT,rizky.hidayat@gmail.com,Bandung,Monitor 24 inch,8,Rp1850000,16-09-2024,Completed
+ORD-1812,Budi Permata,budi.permata@gmail.com,Denpasar,USB-C Hub,3,Rp 320.000,03/25/2025,Completed
+ORD-1936,Indra Anggraini, INDRA.ANGGRAINI@GMAIL.COM ,Makassar,MONITOR 24 INCH,3,Rp1850000,08/05/2026,pending
+ORD-1349,tono nugroho,tono.nugroho@yahoo.com,Bandung,Laptop Stand,6.0,185000,2024/04/10,Cancelled
+ORD-1031,Umi Hidayat,umi.hidayat@yahoo.com,Semarang,External SSD 1TB,7,980.000,06/08/2026,Shipped
+ORD-1360,JOKO PRATAMA,joko.pratama@outlook.com,Denpasar,USB-C HUB,1,320000,1 Nov 2024,Pending
+ORD-1647,Dewi Anggraini,dewi.anggraini@gmail.com,Medan,Laptop Stand,8,185000,11/05/2025,shipped
+ORD-1776,Gilang Hidayat,gilang.hidayat@outlook.com,Semarang,External SSD 1TB,, 980000 ,11/01/2026,Cancelled
+ORD-1491,Andi Pratama,andi.pratama@gmail.com,Jakarta,Monitor 24 inch,8,Rp 1.850.000,3 Sep 2025,pending
+ORD-1199,Fitri Pratama,fitri.pratama@outlook.com,Surabaya,Laptop Stand,6,185000,1 Oct 2025,Cancelled
+ORD-1871,Kiki Kusuma,kiki.kusuma@outlook.com,Yogyakarta,Noise Cancelling Headset,2,1.250.000,24-05-2026,shipped
+ORD-1707,  Gilang Nugroho  ,gilang.nugroho@outlook.com,Bandung,Monitor 24 inch,8,1850000,03/27/2026,Completed
+ORD-1835,Umi Saputra,umi.saputra(at)gmail.com,Makassar,USB-C Hub,4,320000,28/02/2025,Cancelled
+ORD-1535,Gilang Lestari,n/a,Surabaya,Mechanical Keyboard,7,750000,06/05/2025,Shipped
+ORD-1165,Kiki Wijaya,kiki.wijaya@yahoo.com,Surabaya,Laptop Stand,5,185.000,12-03-2024,COMPLETED
+ORD-1351,BUDI WIJAYA,budi.wijaya@outlook.com,Yogyakarta,Monitor 24 inch,1,1850000.00,13-07-2024,Cancelled
+ORD-1150,Umi Kusuma,umi.kusuma@gmail.com,Makassar,Monitor 24 inch,6,1.850.000,9 Nov 2024,Completed
+ORD-1167,Nanda Saputra,nanda.saputra@gmail.com,MEDAN,Monitor 24 inch,8,1850000,2025/03/03,cancelled
+ORD-1061,SARI PRATAMA,sari.pratama@yahoo.com,Yogyakarta,Mechanical Keyboard,8,750.000,10/10/2025,pending
+ORD-1089,Eko Kusuma,eko.kusuma@outlook.com,Bandung,Mechanical Keyboard,5,Rp750000,21/07/2026,shipped
+ORD-1852,JOKO PRATAMA,joko.pratama@gmail.com,Jakarta,Monitor 24 inch,5,Rp 1.850.000,24 Jun 2024,COMPLETED
+ORD-1813,Hana Nugroho,hana.nugroho@gmail.com,yogyakarta,USB-C Hub,7, 320000 ,2024/12/24,Shipped
+ORD-1824,Kiki Anggraini,kiki.anggraini@yahoo.com,Bandung,Noise Cancelling Headset,7,Rp 1.250.000,04/07/2024,Shipped
+ORD-1636,LINA WIJAYA,lina.wijaya@gmail.com,Medan,Laptop Stand,1.0,185000.00,08-03-2025,Shipped
+ORD-1460,OKA PERMATA,oka.permata@outlook.com,Denpasar,EXTERNAL SSD 1TB,5,Rp 980.000,2026-10-12,shipped
+ORD-1743,kiki wijaya,kiki.wijaya@gmail.com,Surabaya,Noise Cancelling Headset,1,Rp 1.250.000,2024-07-16,cancelled
+ORD-1257,SARI SANTOSO,sari.santoso@yahoo.com,Bandung,Mechanical Keyboard,1,750000,2024-06-17,cancelled
+ORD-1931,  Eko Nugroho  ,eko.nugroho(at)gmail.com,Bandung ,USB-C HUB,7 pcs, 320000 ,08-03-2025,COMPLETED
+ORD-1194,eko lestari,eko.lestari@gmail.com,Bandung ,Monitor 24 inch,6,Rp 1.850.000,10/19/2024,Completed
+ORD-1826,  Sari Anggraini  ,sari.anggraini@yahoo.com,Medan,Laptop Stand,7,Rp185000,09/19/2024,pending
+ORD-1398,Sari Pratama,sari.pratama@gmail.com,Jakarta,External SSD 1TB,6, 980000 ,24 Aug 2025,pending
+ORD-1181,Joko  Anggraini,joko.anggraini@yahoo.com,Bandung,Monitor 24 inch,7,1850000,2025/02/21,pending
+ORD-1362,  Tono Hidayat  ,tono.hidayat@outlook.com,bandung,Wireless Mouse,1,150000,08/23/2026,cancelled
+ORD-1095,Putri Saputra,putri.saputra@outlook.com,denpasar,Wireless Mouse,2,Rp 150.000,7 May 2024,cancelled
+ORD-1808,ANDI ANGGRAINI,andi.anggraini@yahoo.com,Surabaya,USB-C Hub,2,320000,2024-08-27,Cancelled
+ORD-1365,Joko  Kusuma,joko.kusuma@yahoo.com,medan,Wireless Mouse,5,Rp 150.000,2025-02-05,COMPLETED
+ORD-1086,OKA KUSUMA,,Bandung,Laptop Stand,6,Rp 185.000,17-08-2026,COMPLETED
+ORD-1805,Rizky Kusuma,rizky.kusuma@gmail.com,Denpasar,Webcam HD,3,Rp 450.000,12-07-2025,completed
+ORD-1285,Eko Wijaya,eko.wijaya@gmail.com,Yogyakarta,Mechanical Keyboard,2,750000,2025/10/01,Shipped
+ORD-1630,Fitri Permata,fitri.permata@gmail,Bandung,Noise Cancelling Headset,3, 1250000 ,04/04/2025,Cancelled
+ORD-1368,Sari  Lestari,sari.lestari@yahoo.com,Yogyakarta,Monitor 24 inch,7,1850000,2025-05-05,Cancelled
+ORD-1493,Hana Lestari,hana.lestari@gmail.com,Jakarta ,External SSD 1TB,6,980000,2024/05/16,Cancelled
+ORD-1126,  Oka Nugroho  ,n/a,SURABAYA,Laptop Stand,2, 185000 ,24/03/2025,COMPLETED
+ORD-1524,Budi Saputra,budi.saputra@yahoo.com,JAKARTA,WIRELESS MOUSE,2,Rp150000,11-07-2025,cancelled
+ORD-1477,  Putri Lestari  ,putri.lestari@yahoo.com,Medan,External SSD 1TB,2, 980000 ,17 Nov 2025,Pending
+ORD-1548,  Lina Santoso  ,lina.santoso@gmail.com,Makassar,Noise Cancelling Headset,8,1250000,16-10-2024,Completed
+ORD-1940,Eko Anggraini,eko.anggraini@yahoo.com,Denpasar,Webcam HD,1,Rp450000,09/07/2024,completed
+,,,,,,,,
+ORD-1785,  Indra Santoso  ,indra.santoso@yahoo.com,Makassar,Laptop Stand,4, 185000 ,27 May 2025,Shipped
+ORD-1513,  Sari Wijaya  ,sari.wijaya@yahoo.com,Semarang,Webcam HD,4,450000.00,02/03/2024,shipped
+ORD-1490,KIKI HIDAYAT,kiki.hidayat@yahoo.com,MAKASSAR,Webcam HD,8,Rp 450.000,22 Apr 2025,completed
+ORD-1346,  Budi Nugroho  ,budi.nugroho@gmail.com,medan,Monitor 24 inch,,Rp 1.850.000,2025-04-12,cancelled
+ORD-1463,Tono  Kusuma,tono.kusuma@outlook.com,Yogyakarta ,WEBCAM HD,,450.000,2025/07/16,Completed
+ORD-1901,nanda wijaya,,Bandung,Laptop Stand,8,Rp185000,25 Dec 2024,Shipped
+ORD-1117,Sari Saputra,sari.saputra@outlook.com,Medan,Webcam HD,8,Rp 450.000,11 Jun 2024,Shipped
+ORD-1184,Kiki Permata,kiki.permata@outlook.com,MAKASSAR,Webcam HD,2,Rp 450.000,2025-12-19,Completed
+ORD-1277,oka pratama,oka.pratama@outlook.com,jakarta,Mechanical Keyboard,,Rp 750.000,26/07/2026,cancelled
+ORD-1777,citra nugroho,n/a,Surabaya,Mechanical Keyboard,1, 750000 ,17 Oct 2025,COMPLETED
+ORD-1539,Tono  Pratama,tono.pratama@outlook.com,Makassar,Laptop Stand,7,185000.00,12/12/2025,cancelled
+ORD-1789,Lina  Saputra,lina.saputra@outlook.com,Medan,Laptop Stand,,Rp 185.000,8 Aug 2025,Pending
+ORD-1798,Dewi Hidayat, DEWI.HIDAYAT@GMAIL.COM ,Bandung,Noise Cancelling Headset,5,Rp 1.250.000,07/28/2024,pending
+ORD-1068,Indra Santoso,indra.santoso@gmail,Makassar,Noise Cancelling Headset,4,Rp1250000,08/08/2025,Completed
+ORD-1246,Joko Anggraini,joko.anggraini@outlook.com,Surabaya,Noise Cancelling Headset,4,1.250.000,20-04-2024,pending
+ORD-1004,Tono Lestari,tono.lestari@yahoo.com,Medan,Mechanical Keyboard,1,Rp750000,03-05-2024,Shipped
+ORD-1874,indra hidayat,indra.hidayat@outlook.com,Medan ,Laptop Stand,1,Rp185000,06/07/2025,cancelled
+ORD-1125,Putri Pratama,putri.pratama@yahoo.com,Medan,Webcam HD,1,450000,19/05/2024,Cancelled
+ORD-1160,LINA SANTOSO,lina.santoso@gmail.com,Makasar,External SSD 1TB,2,980.000,3 Jul 2025,Completed
+ORD-1517,SARI NUGROHO,sari.nugroho@yahoo.com,Denpasar,Noise Cancelling Headset,1,1.250.000,05/01/2026,cancelled
+ORD-1071,INDRA SANTOSO,indra.santoso@yahoo.com,Bandung,USB-C Hub,7,320000.00,24-02-2026,Cancelled
+ORD-1655,Andi Pratama,andi.pratama@yahoo.com,Jakarta,Webcam HD,2.0,450000,2024/11/25,Shipped
+ORD-1562,Maya Santoso,maya.santoso@outlook.com,Bandung,Monitor 24 inch,8,Rp 1.850.000,2024/09/27,COMPLETED
+ORD-1709,  Kiki Lestari  ,kiki.lestari@outlook.com,Semarang,Wireless Mouse,1,150000.00,03/19/2024,COMPLETED
+ORD-1556,Hana Santoso,hana.santoso@gmail.com,Denpasar,USB-C Hub,8,320000.00,27 May 2025,Completed
+ORD-1317,MAYA SANTOSO,maya.santoso@gmail.com,SURABAYA,Webcam HD,1,Rp450000,2025/09/19,Cancelled
+ORD-1296,Rizky Anggraini,rizky.anggraini@yahoo.com,Den Pasar,Webcam HD,,450000,08/09/2025,pending
+ORD-1784,  Eko Nugroho  ,eko.nugroho@yahoo.com,Jakarta,Noise Cancelling Headset,6,Rp1250000,10/08/2025,cancelled
+ORD-1100,Maya  Saputra,maya.saputra@outlook.com,Medan,Monitor 24 inch,6 pcs, 1850000 ,23/08/2024,Cancelled
+ORD-1371,Budi Kusuma,budi.kusuma@outlook.com,Surabaya,Laptop Stand,2,185.000,2024-02-28,cancelled
+ORD-1168,Sari Anggraini,sari.anggraini@gmail.com,Yogyakarta,Mechanical Keyboard,2.0,750000,27/09/2025,Shipped
+ORD-1747,EKO ANGGRAINI,eko.anggraini@yahoo.com,Semarang,Noise Cancelling Headset,1,1250000.00,2025-03-12,Pending
+ORD-1209,Joko  Permata,joko.permata(at)gmail.com,Denpasar,External SSD 1TB,8,980.000,21/02/2025,Shipped
+ORD-1437,Gilang  Nugroho,gilang.nugroho@gmail.com,Makassar,External SSD 1TB,7,Rp980000,02/10/2025,pending
+ORD-1166,Sari Pratama,sari.pratama@yahoo.com,Jakarta,External SSD 1TB,5,980.000,11-03-2024,cancelled
+ORD-1426,UMI HIDAYAT,umi.hidayat@yahoo.com,Jakarta,Webcam HD,6,Rp450000,01/19/2024,Pending
+ORD-1264,Indra Anggraini,indra.anggraini@yahoo.com,Surabaya,External SSD 1TB,3,980.000,08-07-2025,shipped
+ORD-1688,  Andi Permata  ,andi.permata@outlook.com,Jakarta,MONITOR 24 INCH,8,1850000,2024/04/07,pending
+ORD-1300,Eko  Saputra,eko.saputra@yahoo.com,Yogyakarta,Wireless Mouse,4,Rp150000,01/03/2024,completed
+ORD-1674,Putri Saputra,putri.saputra@yahoo.com,BANDUNG,Noise Cancelling Headset,,1250000.00,6 Feb 2024,pending
+ORD-1174,  Budi Wijaya  ,budi.wijaya@yahoo.com,Semarang,External SSD 1TB,1,Rp980000,03/15/2024,Completed
+ORD-1265,Umi Pratama,umi.pratama@gmail.com,Yogyakarta,USB-C HUB,8,Rp 320.000,03/19/2024,pending
+ORD-1749,Umi Pratama,umi.pratama@yahoo.com,Bandung,LAPTOP STAND,6,Rp 185.000,17 Jun 2025,Completed
+ORD-1768,Tono Saputra,tono.saputra@outlook.com,Bandung,External SSD 1TB,4,980000,08/08/2026,cancelled
+ORD-1133,Lina Permata,lina.permata@gmail.com,makassar,External SSD 1TB,7,Rp 980.000,22/02/2025,completed
+ORD-1102,Indra Santoso,indra.santoso(at)gmail.com,jakarta,Mechanical Keyboard,7,Rp 750.000,2025-09-26,shipped
+ORD-1022,  Budi Hidayat  ,budi.hidayat@gmail.com,Makassar ,USB-C Hub,7.0,320000,10 Jan 2024,COMPLETED
+,,,,,,,,
+ORD-1252,  Hana Pratama  ,hana.pratama@gmail.com,Makassar,Mechanical Keyboard,3, 750000 ,18 Sep 2025,Cancelled
+ORD-1663,Joko Kusuma,joko.kusuma@gmail.com,Semarang,Webcam HD,3,Rp450000,07/22/2026,cancelled
+ORD-1933,Sari Hidayat,sari.hidayat@gmail.com,Medan,USB-C HUB,3,Rp 320.000,08/03/2026,COMPLETED
+ORD-1082,  Lina Wijaya  ,,Medan,Monitor 24 inch,2,Rp 1.850.000,19-07-2024,Completed
+ORD-1440,Budi Nugroho,budi.nugroho@yahoo.com,Bandung,Mechanical Keyboard,8,Rp750000,2025/12/14,Cancelled
+ORD-1702,maya permata,maya.permata@yahoo.com,Makassar,Noise Cancelling Headset,3,Rp 1.250.000,18-12-2025,pending
+ORD-1015,  Nanda Saputra  ,nanda.saputra@yahoo.com,Jogjakarta,External SSD 1TB,4,980000,06-01-2025,cancelled
+ORD-1206,DEWI WIJAYA,dewi.wijaya@gmail.com,Makassar,Noise Cancelling Headset,3,Rp 1.250.000,24-03-2025,COMPLETED
+ORD-1672,Maya Anggraini,maya.anggraini@outlook.com,Surabaya,Mechanical Keyboard,3,Rp750000,21-06-2024,cancelled
+ORD-1559,Budi Wijaya,budi.wijaya@outlook.com,Denpasar,Noise Cancelling Headset,8,Rp 1.250.000,04/01/2024,Pending
+ORD-1182,maya kusuma,n/a,denpasar,Mechanical Keyboard,5 pcs, 750000 ,28-12-2025,COMPLETED
+ORD-1408,Eko Nugroho,eko.nugroho@yahoo.com,SEMARANG,Webcam HD,9999,450000,2024/11/22,pending
+ORD-1744,Umi Saputra,umi.saputra@yahoo.com,Den Pasar,Monitor 24 inch,7,1850000.00,2025/04/09,Completed
+ORD-1575,Fitri Hidayat,fitri.hidayat@gmail,Medan,Mechanical Keyboard,, 750000 ,28 Sep 2024,shipped
+ORD-1399,Kiki Saputra,kiki.saputra@yahoo.com,Semarang,External SSD 1TB,8,Rp 980.000,10/05/2025,Shipped
+ORD-1241,RIZKY ANGGRAINI, RIZKY.ANGGRAINI@GMAIL.COM ,Yogyakarta,Laptop Stand,8,185000.00,06/27/2025,cancelled
+ORD-1876,joko kusuma,joko.kusuma@outlook.com,Surabaya,Monitor 24 inch,2 pcs,Rp1850000,17 Mar 2026,shipped
+ORD-1119,  Oka Hidayat  ,oka.hidayat@yahoo.com,Jakarta,Monitor 24 inch,3,1850000,7 Dec 2025,Cancelled
+ORD-1799,Budi  Pratama,budi.pratama(at)gmail.com,Yogyakarta,LAPTOP STAND,3,185000,05-01-2026,Shipped
+ORD-1295,Andi  Santoso,n/a,yogyakarta,Noise Cancelling Headset,6,1.250.000,28 Aug 2025,Pending
+ORD-1566,  Citra Anggraini  ,citra.anggraini@gmail,Medan,Webcam HD,5,Rp 450.000,06-11-2025,Shipped
+ORD-1678,EKO ANGGRAINI,eko.anggraini@gmail.com,Semarang,Webcam HD,2,Rp450000,08/08/2024,Completed
+ORD-1547,Umi Wijaya,umi.wijaya@outlook.com,Denpasar,WEBCAM HD,4,450000,08/20/2025,completed
+ORD-1219,andi permata, ANDI.PERMATA@GMAIL.COM ,Semarang,Wireless Mouse,,150000,28-04-2026,completed
+ORD-1579,EKO PERMATA,eko.permata@outlook.com,medan,Monitor 24 inch,6, 1850000 ,22/03/2024,pending
+ORD-1509,Eko Anggraini,,Denpasar,External SSD 1TB,4,980.000,26 Aug 2024,COMPLETED
+ORD-1053,Budi  Lestari,,Semarang,Webcam HD,,Rp450000,23/08/2025,Completed
+ORD-1680,Nanda  Nugroho,nanda.nugroho@outlook.com,Jakarta ,LAPTOP STAND,6,185000,07-03-2024,completed
+ORD-1615,Lina Wijaya,lina.wijaya@yahoo.com,Surabaya,Mechanical Keyboard,3,Rp750000,05/16/2025,Pending
+ORD-1788,Tono Nugroho,tono.nugroho@yahoo.com,Medan,LAPTOP STAND,2,185000,11-04-2025,pending
+ORD-1314,joko lestari,joko.lestari@outlook.com,SURABAYA,Laptop Stand,6,Rp185000,2024/12/27,shipped
+ORD-1807,Rizky Hidayat,rizky.hidayat@yahoo.com,Bandung,Noise Cancelling Headset,3,Rp 1.250.000,06/26/2025,Pending
+ORD-1656,Hana Anggraini,hana.anggraini@yahoo.com,Makassar,USB-C Hub,3,Rp320000,2024-02-10,pending
+ORD-1786,Dewi Wijaya,dewi.wijaya@gmail.com,Denpasar,Laptop Stand,3,Rp185000,2025/12/16,Pending
+ORD-1814,RIZKY WIJAYA,rizky.wijaya@yahoo.com,SURABAYA,External SSD 1TB,4,Rp980000,05/27/2025,completed
+ORD-1751,CITRA HIDAYAT,citra.hidayat@outlook.com,YOGYAKARTA,Mechanical Keyboard,7,Rp750000,2024-03-11,Shipped
+ORD-1890,Tono Nugroho, TONO.NUGROHO@GMAIL.COM ,Medan ,LAPTOP STAND,,185000,08/02/2025,shipped
+ORD-1475,Lina Wijaya,lina.wijaya@gmail.com,Semarang,Wireless Mouse,9999,150000.00,19-05-2025,COMPLETED
+ORD-1017,fitri wijaya,fitri.wijaya@outlook.com,Bandung,Mechanical Keyboard,4,750000,19/02/2025,pending
+ORD-1427,Lina Santoso,lina.santoso@gmail.com,medan,Laptop Stand,4,Rp 185.000,10-11-2024,Pending
+ORD-1560,Putri Nugroho,putri.nugroho@outlook.com,Yogyakarta,USB-C HUB,7 pcs,320.000,28-08-2024,Cancelled
+ORD-1922,Maya Hidayat,maya.hidayat@gmail.com,Bandung,Mechanical Keyboard,3,750000,12-02-2024,Pending
+ORD-1834,SARI SANTOSO,sari.santoso@yahoo.com,Jakarta,Noise Cancelling Headset,2,Rp 1.250.000,17/01/2024,shipped
+ORD-1549,Maya Nugroho,maya.nugroho@gmail.com,Yogyakarta,Laptop Stand,3,185.000,26 Oct 2026,COMPLETED
+ORD-1281,hana kusuma,hana.kusuma@gmail.com,Bandung,Laptop Stand,8.0,185.000,10/01/2025,Cancelled
+ORD-1823,  Dewi Lestari  ,dewi.lestari@gmail.com,BANDUNG,Webcam HD,5,Rp450000,09/06/2026,COMPLETED
+ORD-1822,citra permata,citra.permata@yahoo.com,Makassar,Noise Cancelling Headset,8,1250000,07/07/2024,completed
+ORD-1078,Joko Hidayat,joko.hidayat@yahoo.com,Yogyakarta,Mechanical Keyboard,1,Rp750000,2024/03/25,Completed
+ORD-1049,Budi Pratama,budi.pratama@yahoo.com,Yogyakarta,Webcam HD,5,450000.00,2025/02/15,Shipped
+ORD-1441,Kiki Saputra,kiki.saputra@gmail,Denpasar ,Wireless Mouse,1,Rp 150.000,15/11/2024,Cancelled
+ORD-1003,Citra Permata,citra.permata@outlook.com,Bandung,Mechanical Keyboard,6,750000,2025/10/09,pending
+ORD-1407,  Nanda Pratama  ,nanda.pratama@gmail.com,Medan,External SSD 1TB,3,980.000,2024-03-27,completed
+ORD-1245,Dewi Permata,n/a,Makassar,Noise Cancelling Headset,7,Rp1250000,23-10-2025,Cancelled
+ORD-1429,Putri Anggraini, PUTRI.ANGGRAINI@GMAIL.COM ,Bandung,Noise Cancelling Headset,3,Rp 1.250.000,2026/05/12,Pending
+ORD-1842,GILANG KUSUMA,gilang.kusuma@gmail.com,Makassar,Wireless Mouse,1,Rp150000,23 Apr 2025,completed
+ORD-1230,Gilang Pratama, GILANG.PRATAMA@GMAIL.COM ,Jakarta,Monitor 24 inch,1, 1850000 ,2024-04-24,Pending
+ORD-1228,Nanda Saputra,nanda.saputra@yahoo.com,SEMARANG,MONITOR 24 INCH,1,Rp 1.850.000,09/07/2024,Shipped
+ORD-1042,  Putri Saputra  ,n/a,Makassar,External SSD 1TB,1,980000.00,05/08/2024,pending
+ORD-1897,OKA  SAPUTRA,oka.saputra@outlook.com,Makassar,USB-C Hub,6,320000,12/18/2025,completed
+ORD-1544,INDRA PERMATA,indra.permata@gmail,Bandung,External SSD 1TB,2, 980000 ,2024-02-10,completed
+ORD-1005,citra kusuma,citra.kusuma@outlook.com,Semarang,USB-C Hub,4,Rp 320.000,2024-08-13,pending
+ORD-1411,Umi Pratama,umi.pratama@outlook.com,Makassar,NOISE CANCELLING HEADSET,6,Rp1250000,22 May 2025,Pending
+ORD-1405,Lina Hidayat,lina.hidayat@yahoo.com,Jogjakarta,Webcam HD,8,Rp450000,7 Feb 2026,COMPLETED
+ORD-1261,dewi nugroho,dewi.nugroho@outlook.com,Surabaya,Mechanical Keyboard,4,Rp750000,2025-08-15,pending
+ORD-1594,Putri  Pratama,putri.pratama@outlook.com,MEDAN,External SSD 1TB,3,Rp980000,2024/04/19,shipped
+ORD-1927,Nanda Anggraini,nanda.anggraini@outlook.com,Semarang,Noise Cancelling Headset,6, 1250000 ,17 Aug 2024,COMPLETED
+ORD-1685,Citra Nugroho,citra.nugroho@outlook.com,Medan,Laptop Stand,8,Rp185000,2025/04/15,Cancelled
+ORD-1235,Nanda Wijaya,nanda.wijaya@yahoo.com,Medan,MECHANICAL KEYBOARD,1,Rp 750.000,22 Mar 2024,Pending
+ORD-1837,Umi  Hidayat,umi.hidayat@yahoo.com,Surabaya ,External SSD 1TB,7,Rp980000,02/22/2025,completed
+ORD-1040,Oka Permata,n/a,Yogyakarta,Webcam HD,6,450.000,02/09/2024,COMPLETED
+ORD-1873,ANDI PRATAMA,andi.pratama@outlook.com,surabaya,Noise Cancelling Headset,7,Rp 1.250.000,12 Jul 2024,COMPLETED
+ORD-1668,citra santoso,citra.santoso@outlook.com,Yogyakarta,USB-C Hub,2,320.000,08/02/2026,shipped
+ORD-1913,Citra Pratama,,Surabaya,USB-C Hub,3,Rp320000,17/08/2024,Shipped
+ORD-1308,NANDA HIDAYAT,nanda.hidayat@gmail.com,Jakarta ,Mechanical Keyboard,2.0,750.000,3 Nov 2026,cancelled
+ORD-1272,Rizky  Anggraini,rizky.anggraini@gmail.com,BANDUNG,Monitor 24 inch,3,1.850.000,2026-02-06,Pending
+ORD-1461,Andi Lestari,andi.lestari@gmail.com,Bandung,External SSD 1TB,3,Rp 980.000,27/07/2024,COMPLETED
+ORD-1229,EKO WIJAYA,eko.wijaya@yahoo.com,Makassar,Monitor 24 inch,5,1850000,27 Feb 2024,pending
+ORD-1606,Rizky Nugroho,,bandung,External SSD 1TB,,980000.00,2025/08/26,COMPLETED
+ORD-1855,  Budi Lestari  ,budi.lestari@gmail.com,YOGYAKARTA,Laptop Stand,6,Rp 185.000,22-03-2026,COMPLETED
+ORD-1323,Budi Nugroho,n/a,Yogyakarta,USB-C HUB,1,Rp320000,26-04-2025,pending
+ORD-1946,Eko Anggraini,eko.anggraini@outlook.com,Makassar,Laptop Stand,4,Rp185000,05/08/2024,COMPLETED
+ORD-1237,Fitri Kusuma,fitri.kusuma@gmail.com,Yogyakarta,MONITOR 24 INCH,6,Rp 1.850.000,01/28/2026,pending
+ORD-1586,Hana Nugroho,hana.nugroho@gmail.com,Semarang ,Laptop Stand,7.0,185000,2024/02/05,pending
+ORD-1624,Gilang Hidayat,,Medan,Laptop Stand,4, 185000 ,12 Jan 2026,Pending
+ORD-1906,Andi  Pratama,andi.pratama@yahoo.com,Jakarta Pusat,WIRELESS MOUSE,8,Rp 150.000,6 Sep 2024,Shipped
+ORD-1937,Andi Hidayat,andi.hidayat@yahoo.com,Surabaya,External SSD 1TB,4,Rp 980.000,14/04/2024,cancelled
+ORD-1475,Lina Wijaya,lina.wijaya@gmail.com,Semarang,Wireless Mouse,2,150000.00,19-05-2025,COMPLETED
+ORD-1608,Maya Kusuma,maya.kusuma@gmail.com,Yogyakarta,Wireless Mouse,4,Rp150000,2025-03-27,pending
+ORD-1428,Tono Anggraini,tono.anggraini@yahoo.com,Denpasar,MONITOR 24 INCH,5, 1850000 ,16/12/2024,pending
+ORD-1900,Tono Santoso,tono.santoso@yahoo.com,Makassar,Webcam HD,3,Rp450000,2024/11/23,pending
+ORD-1850,  Hana Santoso  ,hana.santoso@gmail.com,Jakarta,MONITOR 24 INCH,1,1850000,2026/01/27,Pending
+ORD-1486,Gilang Lestari,n/a,Makassar,Laptop Stand,8,Rp185000,13/09/2026,completed
+ORD-1065,SARI HIDAYAT,sari.hidayat@outlook.com,Medan,Mechanical Keyboard,7,Rp 750.000,18/05/2024,cancelled
+ORD-1811,Joko Permata,joko.permata@gmail.com,Medan,Monitor 24 inch,8,1850000.00,2025/06/05,Completed
+ORD-1746,JOKO PRATAMA,joko.pratama(at)gmail.com,Surabaya,NOISE CANCELLING HEADSET,8,Rp 1.250.000,2025-03-15,shipped
+ORD-1643,OKA NUGROHO,oka.nugroho@gmail.com,YOGYAKARTA,USB-C Hub,7,Rp320000,09/17/2024,Pending
+ORD-1604,Oka Pratama,oka.pratama@gmail,Surabaya,MONITOR 24 INCH,4,Rp1850000,02-04-2024,Completed
+ORD-1418,Gilang  Anggraini,gilang.anggraini@yahoo.com,Makassar,Laptop Stand,,Rp185000,2024-06-04,Pending
+ORD-1065,SARI HIDAYAT,sari.hidayat@outlook.com,Medan,Mechanical Keyboard,7,Rp 750.000,18/05/2024,cancelled
+ORD-1341,Umi  Hidayat,umi.hidayat@yahoo.com,Yogyakarta,Webcam HD,6,Rp450000,19/10/2024,completed
+ORD-1292,nanda kusuma,nanda.kusuma@yahoo.com,Medan,Monitor 24 inch,2,1850000,03/11/2024,Cancelled
+ORD-1046,Eko Pratama,eko.pratama@outlook.com,Semarang,Webcam HD,2,Rp450000,2024/02/18,Pending
+ORD-1935,Citra Permata,citra.permata@yahoo.com,Denpasar,USB-C Hub,1,320.000,2025/08/17,Pending
+ORD-1595,Citra Pratama,citra.pratama@gmail,Surabaya,Mechanical Keyboard,7,Rp750000,2024-08-21,Completed
+ORD-1932,Joko Anggraini, JOKO.ANGGRAINI@GMAIL.COM ,BANDUNG,EXTERNAL SSD 1TB,7,Rp 980.000,2024-04-01,cancelled
+ORD-1081,Nanda Santoso,nanda.santoso@yahoo.com,medan,EXTERNAL SSD 1TB,2,980000,2025/10/14,cancelled
+ORD-1891,PUTRI PERMATA,putri.permata@outlook.com,Medan,Noise Cancelling Headset,8,Rp 1.250.000,2025-10-25,completed
+ORD-1403,  Dewi Nugroho  ,dewi.nugroho@outlook.com,Semarang,Wireless Mouse,7,Rp150000,2026-04-15,Completed
+ORD-1801,MAYA HIDAYAT,maya.hidayat@outlook.com,Surabaya,WEBCAM HD,6,450.000,2024/01/11,COMPLETED
+ORD-1561,  Hana Santoso  ,hana.santoso@outlook.com,Den Pasar,EXTERNAL SSD 1TB,5,980000.00,2024/10/06,COMPLETED
+ORD-1681,lina wijaya,,Jakarta,Monitor 24 inch,2,1.850.000,05/08/2026,completed
+ORD-1303,lina santoso,lina.santoso(at)gmail.com,Medan,Laptop Stand,2,185000,2024/11/14,cancelled
+ORD-1433,nanda nugroho, NANDA.NUGROHO@GMAIL.COM ,Surabaya ,Webcam HD,3,450.000,2025/11/20,Pending
+ORD-1414,Joko Pratama,joko.pratama@gmail,Jakarta,Laptop Stand,,Rp 185.000,23-07-2024,Cancelled
+ORD-1656,HANA ANGGRAINI,hana.anggraini@yahoo.com,Makassar,USB-C Hub,3,Rp320000,2024-02-10,pending
+ORD-1230,Gilang Pratama, GILANG.PRATAMA@GMAIL.COM ,Jakarta,Monitor 24 inch,1, 1850000 ,2024-04-24,Pending
+ORD-1215,kiki lestari,kiki.lestari@yahoo.com,Medan,Wireless Mouse,8,150000,01/06/2025,COMPLETED
+ORD-1006,maya nugroho,maya.nugroho@outlook.com,yogyakarta,MECHANICAL KEYBOARD,4,750.000,11-12-2026,Pending
+ORD-1691,kiki kusuma,n/a,jakarta,Monitor 24 inch,1,Rp1850000,12/05/2026,cancelled
+ORD-1764,sari permata,sari.permata@gmail.com,Makassar,Noise Cancelling Headset,4,Rp1250000,9 Oct 2025,Shipped
+ORD-1703,OKA PERMATA,oka.permata(at)gmail.com,bandung,EXTERNAL SSD 1TB,7, 980000 ,23 Aug 2025,Pending
+ORD-1739,Fitri Santoso,fitri.santoso@outlook.com,Semarang,Laptop Stand,6,Rp185000,02/24/2025,COMPLETED
+ORD-1019,  Eko Hidayat  ,eko.hidayat@yahoo.com,Jakarta,Mechanical Keyboard,4,Rp 750.000,06/05/2025,Shipped
+ORD-1079,Lina Permata,,Denpasar,MECHANICAL KEYBOARD,5,750000,17/08/2026,Shipped
+ORD-1856,maya kusuma,maya.kusuma@yahoo.com,Makassar,Laptop Stand,3, 185000 ,2025-06-15,Completed
+ORD-1370,  Kiki Pratama  ,kiki.pratama@outlook.com,Yogyakarta,Noise Cancelling Headset,1,Rp 1.250.000,2024/02/01,Completed
+ORD-1415,tono santoso,,Bandung,External SSD 1TB,2,980000,03/01/2025,pending
+ORD-1570,Umi  Permata,umi.permata(at)gmail.com,surabaya,External SSD 1TB,3,980000,22-01-2025,pending
+ORD-1602,PUTRI  PERMATA,putri.permata@yahoo.com,Semarang,Noise Cancelling Headset,3,1.250.000,14-07-2024,shipped
+,,,,,,,,
+ORD-1492,  Maya Pratama  , MAYA.PRATAMA@GMAIL.COM ,Jakarta,Wireless Mouse,2,Rp 150.000,2025/06/07,Shipped
+ORD-1288,  Putri Permata  ,putri.permata@outlook.com,Surabaya,Laptop Stand,7,185000.00,28/06/2025,Cancelled
+ORD-1087,BUDI LESTARI,budi.lestari@yahoo.com,Denpasar,External SSD 1TB,8,980000,20-09-2026,pending
+ORD-1304,UMI PRATAMA,umi.pratama@outlook.com,JAKARTA,Noise Cancelling Headset,2,1250000,16/03/2024,cancelled
+ORD-1686,DEWI SANTOSO,dewi.santoso@outlook.com,Semarang,Noise Cancelling Headset,7,1250000.00,09/08/2026,completed
+ORD-1827,Hana Hidayat,hana.hidayat@outlook.com,SURABAYA,Noise Cancelling Headset,2,1250000.00,2024/06/28,pending
+ORD-1191,Kiki Saputra,kiki.saputra@gmail.com,bandung,Webcam HD,4,450.000,05/04/2024,cancelled
+ORD-1852,JOKO PRATAMA,joko.pratama@gmail.com,Jakarta,Monitor 24 inch,5,Rp 1.850.000,24 Jun 2024,COMPLETED
+ORD-1514,  Umi Pratama  ,umi.pratama@yahoo.com,Jakarta,Webcam HD,1,Rp 450.000,27 May 2025,shipped
+ORD-1337,oka saputra,oka.saputra@yahoo.com,Denpasar,External SSD 1TB,,980000,08/08/2026,Cancelled
+ORD-1016,Eko  Lestari,eko.lestari@gmail.com,Jakarta,Webcam HD,4,Rp 450.000,2024/10/24,Completed
+ORD-1377,gilang pratama,gilang.pratama@outlook.com,Medan,Wireless Mouse,4,150000,2024-12-19,completed
+ORD-1645,Dewi Hidayat,dewi.hidayat@outlook.com,Jakarta,Monitor 24 inch,4,1850000,2024-02-07,completed
+ORD-1865,ANDI PRATAMA,andi.pratama@gmail.com,Bandung,MECHANICAL KEYBOARD,,750000,2024/03/12,Completed
